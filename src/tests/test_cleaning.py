@@ -29,7 +29,6 @@ def save_cleaned_data(data, file_path):
 
 def load_data() :
     raw_file_path = 'data/raw/1810024501_donneesselectionnees.csv'
-    cleaned_file_path = 'data/cleaned/cleaned_data.csv'
     data = []
 
     # need utf-8 encoding cause french/latin characters
