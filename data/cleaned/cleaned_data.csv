@@ -1,0 +1,2311 @@
+date,product,price
+2023-01,"Boeuf à ragoût, par kilogramme",18.66
+2023-02,"Boeuf à ragoût, par kilogramme",18.69
+2023-03,"Boeuf à ragoût, par kilogramme",18.73
+2023-04,"Boeuf à ragoût, par kilogramme",19.49
+2023-05,"Boeuf à ragoût, par kilogramme",19.32
+2023-06,"Boeuf à ragoût, par kilogramme",19.67
+2023-07,"Boeuf à ragoût, par kilogramme",19.91
+2023-08,"Boeuf à ragoût, par kilogramme",20.29
+2023-09,"Boeuf à ragoût, par kilogramme",19.55
+2023-10,"Boeuf à ragoût, par kilogramme",18.23
+2023-11,"Boeuf à ragoût, par kilogramme",21.36
+2023-12,"Boeuf à ragoût, par kilogramme",20.8
+2024-01,"Boeuf à ragoût, par kilogramme",18.04
+2024-02,"Boeuf à ragoût, par kilogramme",17.51
+2024-03,"Boeuf à ragoût, par kilogramme",16.52
+2024-04,"Boeuf à ragoût, par kilogramme",18.59
+2024-05,"Boeuf à ragoût, par kilogramme",20.41
+2024-06,"Boeuf à ragoût, par kilogramme",20.42
+2024-07,"Boeuf à ragoût, par kilogramme",20.66
+2024-08,"Boeuf à ragoût, par kilogramme",22.29
+2024-09,"Boeuf à ragoût, par kilogramme",21.79
+2023-01,"Contrefilets de boeuf, par kilogramme",27.78
+2023-02,"Contrefilets de boeuf, par kilogramme",23.05
+2023-03,"Contrefilets de boeuf, par kilogramme",30.42
+2023-04,"Contrefilets de boeuf, par kilogramme",30.29
+2023-05,"Contrefilets de boeuf, par kilogramme",24.26
+2023-06,"Contrefilets de boeuf, par kilogramme",23.57
+2023-07,"Contrefilets de boeuf, par kilogramme",28.9
+2023-08,"Contrefilets de boeuf, par kilogramme",24.74
+2023-09,"Contrefilets de boeuf, par kilogramme",26.2
+2023-10,"Contrefilets de boeuf, par kilogramme",24.85
+2023-11,"Contrefilets de boeuf, par kilogramme",21.4
+2023-12,"Contrefilets de boeuf, par kilogramme",19.18
+2024-01,"Contrefilets de boeuf, par kilogramme",29.86
+2024-02,"Contrefilets de boeuf, par kilogramme",23.48
+2024-03,"Contrefilets de boeuf, par kilogramme",29.43
+2024-04,"Contrefilets de boeuf, par kilogramme",23.8
+2024-05,"Contrefilets de boeuf, par kilogramme",28.7
+2024-06,"Contrefilets de boeuf, par kilogramme",26.94
+2024-07,"Contrefilets de boeuf, par kilogramme",30.58
+2024-08,"Contrefilets de boeuf, par kilogramme",28.17
+2024-09,"Contrefilets de boeuf, par kilogramme",32.47
+2023-01,"Hauts de surlonge de boeuf, par kilogramme",18.83
+2023-02,"Hauts de surlonge de boeuf, par kilogramme",18.45
+2023-03,"Hauts de surlonge de boeuf, par kilogramme",21.21
+2023-04,"Hauts de surlonge de boeuf, par kilogramme",20.49
+2023-05,"Hauts de surlonge de boeuf, par kilogramme",21.89
+2023-06,"Hauts de surlonge de boeuf, par kilogramme",23.89
+2023-07,"Hauts de surlonge de boeuf, par kilogramme",22.68
+2023-08,"Hauts de surlonge de boeuf, par kilogramme",28.33
+2023-09,"Hauts de surlonge de boeuf, par kilogramme",28.58
+2023-10,"Hauts de surlonge de boeuf, par kilogramme",26.58
+2023-11,"Hauts de surlonge de boeuf, par kilogramme",20.14
+2023-12,"Hauts de surlonge de boeuf, par kilogramme",20.83
+2024-01,"Hauts de surlonge de boeuf, par kilogramme",17.8
+2024-02,"Hauts de surlonge de boeuf, par kilogramme",18.31
+2024-03,"Hauts de surlonge de boeuf, par kilogramme",20.59
+2024-04,"Hauts de surlonge de boeuf, par kilogramme",18.57
+2024-05,"Hauts de surlonge de boeuf, par kilogramme",21.0
+2024-06,"Hauts de surlonge de boeuf, par kilogramme",22.55
+2024-07,"Hauts de surlonge de boeuf, par kilogramme",22.79
+2024-08,"Hauts de surlonge de boeuf, par kilogramme",22.84
+2024-09,"Hauts de surlonge de boeuf, par kilogramme",22.39
+2023-01,"Côtes de boeuf, par kilogramme",31.59
+2023-02,"Côtes de boeuf, par kilogramme",34.62
+2023-03,"Côtes de boeuf, par kilogramme",27.62
+2023-04,"Côtes de boeuf, par kilogramme",21.46
+2023-05,"Côtes de boeuf, par kilogramme",35.2
+2023-06,"Côtes de boeuf, par kilogramme",32.0
+2023-07,"Côtes de boeuf, par kilogramme",31.2
+2023-08,"Côtes de boeuf, par kilogramme",32.3
+2023-09,"Côtes de boeuf, par kilogramme",28.49
+2023-10,"Côtes de boeuf, par kilogramme",20.26
+2023-11,"Côtes de boeuf, par kilogramme",34.95
+2023-12,"Côtes de boeuf, par kilogramme",24.88
+2024-01,"Côtes de boeuf, par kilogramme",33.03
+2024-02,"Côtes de boeuf, par kilogramme",25.66
+2024-03,"Côtes de boeuf, par kilogramme",21.16
+2024-04,"Côtes de boeuf, par kilogramme",31.09
+2024-05,"Côtes de boeuf, par kilogramme",28.76
+2024-06,"Côtes de boeuf, par kilogramme",29.05
+2024-07,"Côtes de boeuf, par kilogramme",30.36
+2024-08,"Côtes de boeuf, par kilogramme",27.9
+2024-09,"Côtes de boeuf, par kilogramme",32.88
+2023-01,"Boeuf haché, par kilogramme",10.13
+2023-02,"Boeuf haché, par kilogramme",9.59
+2023-03,"Boeuf haché, par kilogramme",10.26
+2023-04,"Boeuf haché, par kilogramme",10.47
+2023-05,"Boeuf haché, par kilogramme",10.88
+2023-06,"Boeuf haché, par kilogramme",10.51
+2023-07,"Boeuf haché, par kilogramme",10.6
+2023-08,"Boeuf haché, par kilogramme",10.62
+2023-09,"Boeuf haché, par kilogramme",11.3
+2023-10,"Boeuf haché, par kilogramme",11.49
+2023-11,"Boeuf haché, par kilogramme",11.58
+2023-12,"Boeuf haché, par kilogramme",12.23
+2024-01,"Boeuf haché, par kilogramme",11.06
+2024-02,"Boeuf haché, par kilogramme",11.09
+2024-03,"Boeuf haché, par kilogramme",11.49
+2024-04,"Boeuf haché, par kilogramme",11.29
+2024-05,"Boeuf haché, par kilogramme",12.23
+2024-06,"Boeuf haché, par kilogramme",12.83
+2024-07,"Boeuf haché, par kilogramme",13.14
+2024-08,"Boeuf haché, par kilogramme",13.47
+2024-09,"Boeuf haché, par kilogramme",13.59
+2023-01,"Longes de porc, par kilogramme",9.55
+2023-02,"Longes de porc, par kilogramme",7.59
+2023-03,"Longes de porc, par kilogramme",7.09
+2023-04,"Longes de porc, par kilogramme",9.24
+2023-05,"Longes de porc, par kilogramme",8.32
+2023-06,"Longes de porc, par kilogramme",8.07
+2023-07,"Longes de porc, par kilogramme",7.85
+2023-08,"Longes de porc, par kilogramme",9.39
+2023-09,"Longes de porc, par kilogramme",8.82
+2023-10,"Longes de porc, par kilogramme",8.84
+2023-11,"Longes de porc, par kilogramme",7.99
+2023-12,"Longes de porc, par kilogramme",8.88
+2024-01,"Longes de porc, par kilogramme",8.6
+2024-02,"Longes de porc, par kilogramme",8.17
+2024-03,"Longes de porc, par kilogramme",9.63
+2024-04,"Longes de porc, par kilogramme",9.18
+2024-05,"Longes de porc, par kilogramme",8.73
+2024-06,"Longes de porc, par kilogramme",8.75
+2024-07,"Longes de porc, par kilogramme",8.53
+2024-08,"Longes de porc, par kilogramme",8.09
+2024-09,"Longes de porc, par kilogramme",9.71
+2023-01,"Côtes de porc, par kilogramme",8.03
+2023-02,"Côtes de porc, par kilogramme",8.25
+2023-03,"Côtes de porc, par kilogramme",8.21
+2023-04,"Côtes de porc, par kilogramme",7.89
+2023-05,"Côtes de porc, par kilogramme",8.0
+2023-06,"Côtes de porc, par kilogramme",7.29
+2023-07,"Côtes de porc, par kilogramme",8.57
+2023-08,"Côtes de porc, par kilogramme",8.87
+2023-09,"Côtes de porc, par kilogramme",7.89
+2023-10,"Côtes de porc, par kilogramme",7.6
+2023-11,"Côtes de porc, par kilogramme",9.08
+2023-12,"Côtes de porc, par kilogramme",9.17
+2024-01,"Côtes de porc, par kilogramme",7.05
+2024-02,"Côtes de porc, par kilogramme",7.49
+2024-03,"Côtes de porc, par kilogramme",8.93
+2024-04,"Côtes de porc, par kilogramme",8.08
+2024-05,"Côtes de porc, par kilogramme",8.66
+2024-06,"Côtes de porc, par kilogramme",8.66
+2024-07,"Côtes de porc, par kilogramme",8.48
+2024-08,"Côtes de porc, par kilogramme",8.28
+2024-09,"Côtes de porc, par kilogramme",7.92
+2023-01,"Épaule de porc, par kilogramme",4.24
+2023-02,"Épaule de porc, par kilogramme",7.11
+2023-03,"Épaule de porc, par kilogramme",5.28
+2023-04,"Épaule de porc, par kilogramme",6.41
+2023-05,"Épaule de porc, par kilogramme",9.07
+2023-06,"Épaule de porc, par kilogramme",9.04
+2023-07,"Épaule de porc, par kilogramme",9.11
+2023-08,"Épaule de porc, par kilogramme",9.38
+2023-09,"Épaule de porc, par kilogramme",9.47
+2023-10,"Épaule de porc, par kilogramme",5.23
+2023-11,"Épaule de porc, par kilogramme",7.75
+2023-12,"Épaule de porc, par kilogramme",6.35
+2024-01,"Épaule de porc, par kilogramme",4.81
+2024-02,"Épaule de porc, par kilogramme",5.01
+2024-03,"Épaule de porc, par kilogramme",9.32
+2024-04,"Épaule de porc, par kilogramme",9.53
+2024-05,"Épaule de porc, par kilogramme",8.97
+2024-06,"Épaule de porc, par kilogramme",10.37
+2024-07,"Épaule de porc, par kilogramme",10.26
+2024-08,"Épaule de porc, par kilogramme",9.83
+2024-09,"Épaule de porc, par kilogramme",7.06
+2023-01,"Poulet entier, par kilogramme",5.72
+2023-02,"Poulet entier, par kilogramme",6.84
+2023-03,"Poulet entier, par kilogramme",5.95
+2023-04,"Poulet entier, par kilogramme",6.08
+2023-05,"Poulet entier, par kilogramme",6.23
+2023-06,"Poulet entier, par kilogramme",6.51
+2023-07,"Poulet entier, par kilogramme",6.45
+2023-08,"Poulet entier, par kilogramme",7.03
+2023-09,"Poulet entier, par kilogramme",6.71
+2023-10,"Poulet entier, par kilogramme",6.26
+2023-11,"Poulet entier, par kilogramme",5.72
+2023-12,"Poulet entier, par kilogramme",5.8
+2024-01,"Poulet entier, par kilogramme",5.16
+2024-02,"Poulet entier, par kilogramme",5.27
+2024-03,"Poulet entier, par kilogramme",6.2
+2024-04,"Poulet entier, par kilogramme",5.86
+2024-05,"Poulet entier, par kilogramme",5.75
+2024-06,"Poulet entier, par kilogramme",5.19
+2024-07,"Poulet entier, par kilogramme",5.4
+2024-08,"Poulet entier, par kilogramme",5.51
+2024-09,"Poulet entier, par kilogramme",5.55
+2023-01,"Poitrines de poulet, par kilogramme",14.07
+2023-02,"Poitrines de poulet, par kilogramme",13.13
+2023-03,"Poitrines de poulet, par kilogramme",14.17
+2023-04,"Poitrines de poulet, par kilogramme",15.83
+2023-05,"Poitrines de poulet, par kilogramme",13.04
+2023-06,"Poitrines de poulet, par kilogramme",13.91
+2023-07,"Poitrines de poulet, par kilogramme",14.15
+2023-08,"Poitrines de poulet, par kilogramme",14.38
+2023-09,"Poitrines de poulet, par kilogramme",15.33
+2023-10,"Poitrines de poulet, par kilogramme",14.18
+2023-11,"Poitrines de poulet, par kilogramme",13.86
+2023-12,"Poitrines de poulet, par kilogramme",12.3
+2024-01,"Poitrines de poulet, par kilogramme",13.68
+2024-02,"Poitrines de poulet, par kilogramme",12.62
+2024-03,"Poitrines de poulet, par kilogramme",13.91
+2024-04,"Poitrines de poulet, par kilogramme",13.4
+2024-05,"Poitrines de poulet, par kilogramme",13.54
+2024-06,"Poitrines de poulet, par kilogramme",12.26
+2024-07,"Poitrines de poulet, par kilogramme",11.86
+2024-08,"Poitrines de poulet, par kilogramme",12.97
+2024-09,"Poitrines de poulet, par kilogramme",13.38
+2023-01,"Hauts de cuisse de poulet, par kilogramme",12.73
+2023-02,"Hauts de cuisse de poulet, par kilogramme",10.85
+2023-03,"Hauts de cuisse de poulet, par kilogramme",13.14
+2023-04,"Hauts de cuisse de poulet, par kilogramme",13.33
+2023-05,"Hauts de cuisse de poulet, par kilogramme",12.81
+2023-06,"Hauts de cuisse de poulet, par kilogramme",13.58
+2023-07,"Hauts de cuisse de poulet, par kilogramme",12.44
+2023-08,"Hauts de cuisse de poulet, par kilogramme",13.44
+2023-09,"Hauts de cuisse de poulet, par kilogramme",13.72
+2023-10,"Hauts de cuisse de poulet, par kilogramme",13.32
+2023-11,"Hauts de cuisse de poulet, par kilogramme",10.95
+2023-12,"Hauts de cuisse de poulet, par kilogramme",12.46
+2024-01,"Hauts de cuisse de poulet, par kilogramme",12.66
+2024-02,"Hauts de cuisse de poulet, par kilogramme",11.8
+2024-03,"Hauts de cuisse de poulet, par kilogramme",9.89
+2024-04,"Hauts de cuisse de poulet, par kilogramme",11.97
+2024-05,"Hauts de cuisse de poulet, par kilogramme",10.74
+2024-06,"Hauts de cuisse de poulet, par kilogramme",8.72
+2024-07,"Hauts de cuisse de poulet, par kilogramme",10.81
+2024-08,"Hauts de cuisse de poulet, par kilogramme",8.86
+2024-09,"Hauts de cuisse de poulet, par kilogramme",11.04
+2023-01,"Pilons de poulet, par kilogramme",6.01
+2023-02,"Pilons de poulet, par kilogramme",6.67
+2023-03,"Pilons de poulet, par kilogramme",5.83
+2023-04,"Pilons de poulet, par kilogramme",5.88
+2023-05,"Pilons de poulet, par kilogramme",6.19
+2023-06,"Pilons de poulet, par kilogramme",5.71
+2023-07,"Pilons de poulet, par kilogramme",6.51
+2023-08,"Pilons de poulet, par kilogramme",7.25
+2023-09,"Pilons de poulet, par kilogramme",5.46
+2023-10,"Pilons de poulet, par kilogramme",8.82
+2023-11,"Pilons de poulet, par kilogramme",7.03
+2023-12,"Pilons de poulet, par kilogramme",8.09
+2024-01,"Pilons de poulet, par kilogramme",8.29
+2024-02,"Pilons de poulet, par kilogramme",7.16
+2024-03,"Pilons de poulet, par kilogramme",5.35
+2024-04,"Pilons de poulet, par kilogramme",7.62
+2024-05,"Pilons de poulet, par kilogramme",5.75
+2024-06,"Pilons de poulet, par kilogramme",5.77
+2024-07,"Pilons de poulet, par kilogramme",7.53
+2024-08,"Pilons de poulet, par kilogramme",5.47
+2024-09,"Pilons de poulet, par kilogramme",7.58
+2023-01,"Bacon, 500 grammes",6.87
+2023-02,"Bacon, 500 grammes",6.54
+2023-03,"Bacon, 500 grammes",6.82
+2023-04,"Bacon, 500 grammes",6.79
+2023-05,"Bacon, 500 grammes",6.1
+2023-06,"Bacon, 500 grammes",6.2
+2023-07,"Bacon, 500 grammes",6.3
+2023-08,"Bacon, 500 grammes",6.44
+2023-09,"Bacon, 500 grammes",7.3
+2023-10,"Bacon, 500 grammes",7.43
+2023-11,"Bacon, 500 grammes",6.7
+2023-12,"Bacon, 500 grammes",7.06
+2024-01,"Bacon, 500 grammes",6.49
+2024-02,"Bacon, 500 grammes",5.73
+2024-03,"Bacon, 500 grammes",5.94
+2024-04,"Bacon, 500 grammes",6.09
+2024-05,"Bacon, 500 grammes",5.95
+2024-06,"Bacon, 500 grammes",6.27
+2024-07,"Bacon, 500 grammes",6.13
+2024-08,"Bacon, 500 grammes",6.51
+2024-09,"Bacon, 500 grammes",6.11
+2023-01,"Saucisses fumées, 400 grammes",4.39
+2023-02,"Saucisses fumées, 400 grammes",4.42
+2023-03,"Saucisses fumées, 400 grammes",4.39
+2023-04,"Saucisses fumées, 400 grammes",4.22
+2023-05,"Saucisses fumées, 400 grammes",4.26
+2023-06,"Saucisses fumées, 400 grammes",4.4
+2023-07,"Saucisses fumées, 400 grammes",4.5
+2023-08,"Saucisses fumées, 400 grammes",4.14
+2023-09,"Saucisses fumées, 400 grammes",4.23
+2023-10,"Saucisses fumées, 400 grammes",4.11
+2023-11,"Saucisses fumées, 400 grammes",4.22
+2023-12,"Saucisses fumées, 400 grammes",4.33
+2024-01,"Saucisses fumées, 400 grammes",4.07
+2024-02,"Saucisses fumées, 400 grammes",4.07
+2024-03,"Saucisses fumées, 400 grammes",4.42
+2024-04,"Saucisses fumées, 400 grammes",4.28
+2024-05,"Saucisses fumées, 400 grammes",4.47
+2024-06,"Saucisses fumées, 400 grammes",4.36
+2024-07,"Saucisses fumées, 400 grammes",4.24
+2024-08,"Saucisses fumées, 400 grammes",4.32
+2024-09,"Saucisses fumées, 400 grammes",4.33
+2023-01,"Saumon, par kilogramme",29.38
+2023-02,"Saumon, par kilogramme",29.74
+2023-03,"Saumon, par kilogramme",30.66
+2023-04,"Saumon, par kilogramme",29.8
+2023-05,"Saumon, par kilogramme",30.53
+2023-06,"Saumon, par kilogramme",28.97
+2023-07,"Saumon, par kilogramme",27.86
+2023-08,"Saumon, par kilogramme",24.67
+2023-09,"Saumon, par kilogramme",26.93
+2023-10,"Saumon, par kilogramme",25.99
+2023-11,"Saumon, par kilogramme",25.12
+2023-12,"Saumon, par kilogramme",24.79
+2024-01,"Saumon, par kilogramme",27.34
+2024-02,"Saumon, par kilogramme",26.58
+2024-03,"Saumon, par kilogramme",26.61
+2024-04,"Saumon, par kilogramme",28.41
+2024-05,"Saumon, par kilogramme",27.15
+2024-06,"Saumon, par kilogramme",27.89
+2024-07,"Saumon, par kilogramme",27.73
+2024-08,"Saumon, par kilogramme",26.43
+2024-09,"Saumon, par kilogramme",27.05
+2023-01,"Crevette, 300 grammes",7.85
+2023-02,"Crevette, 300 grammes",7.65
+2023-03,"Crevette, 300 grammes",7.21
+2023-04,"Crevette, 300 grammes",7.74
+2023-05,"Crevette, 300 grammes",7.99
+2023-06,"Crevette, 300 grammes",7.89
+2023-07,"Crevette, 300 grammes",7.97
+2023-08,"Crevette, 300 grammes",7.98
+2023-09,"Crevette, 300 grammes",7.95
+2023-10,"Crevette, 300 grammes",7.59
+2023-11,"Crevette, 300 grammes",7.5
+2023-12,"Crevette, 300 grammes",7.42
+2024-01,"Crevette, 300 grammes",7.28
+2024-02,"Crevette, 300 grammes",7.14
+2024-03,"Crevette, 300 grammes",7.3
+2024-04,"Crevette, 300 grammes",6.98
+2024-05,"Crevette, 300 grammes",7.27
+2024-06,"Crevette, 300 grammes",7.43
+2024-07,"Crevette, 300 grammes",7.19
+2024-08,"Crevette, 300 grammes",7.11
+2024-09,"Crevette, 300 grammes",7.11
+2023-01,"Saumon en conserve, 213 grammes",4.96
+2023-02,"Saumon en conserve, 213 grammes",4.33
+2023-03,"Saumon en conserve, 213 grammes",4.89
+2023-04,"Saumon en conserve, 213 grammes",4.68
+2023-05,"Saumon en conserve, 213 grammes",4.71
+2023-06,"Saumon en conserve, 213 grammes",4.11
+2023-07,"Saumon en conserve, 213 grammes",5.15
+2023-08,"Saumon en conserve, 213 grammes",5.13
+2023-09,"Saumon en conserve, 213 grammes",4.41
+2023-10,"Saumon en conserve, 213 grammes",5.06
+2023-11,"Saumon en conserve, 213 grammes",4.93
+2023-12,"Saumon en conserve, 213 grammes",4.48
+2024-01,"Saumon en conserve, 213 grammes",4.51
+2024-02,"Saumon en conserve, 213 grammes",4.39
+2024-03,"Saumon en conserve, 213 grammes",3.8
+2024-04,"Saumon en conserve, 213 grammes",4.64
+2024-05,"Saumon en conserve, 213 grammes",4.33
+2024-06,"Saumon en conserve, 213 grammes",3.91
+2024-07,"Saumon en conserve, 213 grammes",4.58
+2024-08,"Saumon en conserve, 213 grammes",3.84
+2024-09,"Saumon en conserve, 213 grammes",4.5
+2023-01,"Thon en conserve, 170 grammes",1.85
+2023-02,"Thon en conserve, 170 grammes",1.9
+2023-03,"Thon en conserve, 170 grammes",1.85
+2023-04,"Thon en conserve, 170 grammes",1.77
+2023-05,"Thon en conserve, 170 grammes",1.92
+2023-06,"Thon en conserve, 170 grammes",2.01
+2023-07,"Thon en conserve, 170 grammes",1.6
+2023-08,"Thon en conserve, 170 grammes",2.07
+2023-09,"Thon en conserve, 170 grammes",1.98
+2023-10,"Thon en conserve, 170 grammes",1.58
+2023-11,"Thon en conserve, 170 grammes",1.93
+2023-12,"Thon en conserve, 170 grammes",1.92
+2024-01,"Thon en conserve, 170 grammes",1.61
+2024-02,"Thon en conserve, 170 grammes",1.69
+2024-03,"Thon en conserve, 170 grammes",1.71
+2024-04,"Thon en conserve, 170 grammes",1.57
+2024-05,"Thon en conserve, 170 grammes",1.83
+2024-06,"Thon en conserve, 170 grammes",1.58
+2024-07,"Thon en conserve, 170 grammes",1.68
+2024-08,"Thon en conserve, 170 grammes",1.59
+2024-09,"Thon en conserve, 170 grammes",1.76
+2023-01,"Burgers sans viande, 226 grammes",5.78
+2023-02,"Burgers sans viande, 226 grammes",6.0
+2023-03,"Burgers sans viande, 226 grammes",5.91
+2023-04,"Burgers sans viande, 226 grammes",5.96
+2023-05,"Burgers sans viande, 226 grammes",5.82
+2023-06,"Burgers sans viande, 226 grammes",5.81
+2023-07,"Burgers sans viande, 226 grammes",5.92
+2023-08,"Burgers sans viande, 226 grammes",5.96
+2023-09,"Burgers sans viande, 226 grammes",5.93
+2023-10,"Burgers sans viande, 226 grammes",5.88
+2023-11,"Burgers sans viande, 226 grammes",5.81
+2023-12,"Burgers sans viande, 226 grammes",5.99
+2024-01,"Burgers sans viande, 226 grammes",5.83
+2024-02,"Burgers sans viande, 226 grammes",5.68
+2024-03,"Burgers sans viande, 226 grammes",5.9
+2024-04,"Burgers sans viande, 226 grammes",5.67
+2024-05,"Burgers sans viande, 226 grammes",6.08
+2024-06,"Burgers sans viande, 226 grammes",6.13
+2024-07,"Burgers sans viande, 226 grammes",6.16
+2024-08,"Burgers sans viande, 226 grammes",6.07
+2024-09,"Burgers sans viande, 226 grammes",6.11
+2023-01,"Lait, 1 litre",3.64
+2023-02,"Lait, 1 litre",3.7
+2023-03,"Lait, 1 litre",3.71
+2023-04,"Lait, 1 litre",3.74
+2023-05,"Lait, 1 litre",3.76
+2023-06,"Lait, 1 litre",3.76
+2023-07,"Lait, 1 litre",3.76
+2023-08,"Lait, 1 litre",3.77
+2023-09,"Lait, 1 litre",3.76
+2023-10,"Lait, 1 litre",3.75
+2023-11,"Lait, 1 litre",3.75
+2023-12,"Lait, 1 litre",3.75
+2024-01,"Lait, 1 litre",3.71
+2024-02,"Lait, 1 litre",3.72
+2024-03,"Lait, 1 litre",3.72
+2024-04,"Lait, 1 litre",3.7
+2024-05,"Lait, 1 litre",3.79
+2024-06,"Lait, 1 litre",3.8
+2024-07,"Lait, 1 litre",3.8
+2024-08,"Lait, 1 litre",3.82
+2024-09,"Lait, 1 litre",3.8
+2023-01,"Lait, 2 litres",5.45
+2023-02,"Lait, 2 litres",5.61
+2023-03,"Lait, 2 litres",5.71
+2023-04,"Lait, 2 litres",5.64
+2023-05,"Lait, 2 litres",5.6
+2023-06,"Lait, 2 litres",5.68
+2023-07,"Lait, 2 litres",5.7
+2023-08,"Lait, 2 litres",5.63
+2023-09,"Lait, 2 litres",5.65
+2023-10,"Lait, 2 litres",5.68
+2023-11,"Lait, 2 litres",5.7
+2023-12,"Lait, 2 litres",5.7
+2024-01,"Lait, 2 litres",5.58
+2024-02,"Lait, 2 litres",5.52
+2024-03,"Lait, 2 litres",5.58
+2024-04,"Lait, 2 litres",5.5
+2024-05,"Lait, 2 litres",5.62
+2024-06,"Lait, 2 litres",5.72
+2024-07,"Lait, 2 litres",5.77
+2024-08,"Lait, 2 litres",5.71
+2024-09,"Lait, 2 litres",5.79
+2023-01,"Lait, 4 litres",6.06
+2023-02,"Lait, 4 litres",6.2
+2023-03,"Lait, 4 litres",6.25
+2023-04,"Lait, 4 litres",6.3
+2023-05,"Lait, 4 litres",6.26
+2023-06,"Lait, 4 litres",6.27
+2023-07,"Lait, 4 litres",6.26
+2023-08,"Lait, 4 litres",6.28
+2023-09,"Lait, 4 litres",6.2
+2023-10,"Lait, 4 litres",6.22
+2023-11,"Lait, 4 litres",6.29
+2023-12,"Lait, 4 litres",6.28
+2024-01,"Lait, 4 litres",6.29
+2024-02,"Lait, 4 litres",6.32
+2024-03,"Lait, 4 litres",6.26
+2024-04,"Lait, 4 litres",6.3
+2024-05,"Lait, 4 litres",6.48
+2024-06,"Lait, 4 litres",6.59
+2024-07,"Lait, 4 litres",6.49
+2024-08,"Lait, 4 litres",6.56
+2024-09,"Lait, 4 litres",6.54
+2023-01,"Lait de soja, 1,89 litres",4.18
+2023-02,"Lait de soja, 1,89 litres",4.08
+2023-03,"Lait de soja, 1,89 litres",4.13
+2023-04,"Lait de soja, 1,89 litres",4.43
+2023-05,"Lait de soja, 1,89 litres",3.99
+2023-06,"Lait de soja, 1,89 litres",4.28
+2023-07,"Lait de soja, 1,89 litres",4.12
+2023-08,"Lait de soja, 1,89 litres",4.11
+2023-09,"Lait de soja, 1,89 litres",4.25
+2023-10,"Lait de soja, 1,89 litres",4.32
+2023-11,"Lait de soja, 1,89 litres",3.87
+2023-12,"Lait de soja, 1,89 litres",4.26
+2024-01,"Lait de soja, 1,89 litres",4.12
+2024-02,"Lait de soja, 1,89 litres",3.92
+2024-03,"Lait de soja, 1,89 litres",4.16
+2024-04,"Lait de soja, 1,89 litres",4.25
+2024-05,"Lait de soja, 1,89 litres",4.11
+2024-06,"Lait de soja, 1,89 litres",4.39
+2024-07,"Lait de soja, 1,89 litres",4.5
+2024-08,"Lait de soja, 1,89 litres",4.62
+2024-09,"Lait de soja, 1,89 litres",4.24
+2023-01,"Lait de noix, 1,89 litres",4.17
+2023-02,"Lait de noix, 1,89 litres",4.06
+2023-03,"Lait de noix, 1,89 litres",4.14
+2023-04,"Lait de noix, 1,89 litres",4.28
+2023-05,"Lait de noix, 1,89 litres",3.96
+2023-06,"Lait de noix, 1,89 litres",4.23
+2023-07,"Lait de noix, 1,89 litres",4.11
+2023-08,"Lait de noix, 1,89 litres",4.05
+2023-09,"Lait de noix, 1,89 litres",4.15
+2023-10,"Lait de noix, 1,89 litres",4.22
+2023-11,"Lait de noix, 1,89 litres",3.83
+2023-12,"Lait de noix, 1,89 litres",4.19
+2024-01,"Lait de noix, 1,89 litres",4.1
+2024-02,"Lait de noix, 1,89 litres",3.99
+2024-03,"Lait de noix, 1,89 litres",4.08
+2024-04,"Lait de noix, 1,89 litres",4.14
+2024-05,"Lait de noix, 1,89 litres",4.08
+2024-06,"Lait de noix, 1,89 litres",4.21
+2024-07,"Lait de noix, 1,89 litres",4.23
+2024-08,"Lait de noix, 1,89 litres",4.25
+2024-09,"Lait de noix, 1,89 litres",4.16
+2023-01,"Crème, 1 litre",4.23
+2023-02,"Crème, 1 litre",4.44
+2023-03,"Crème, 1 litre",4.29
+2023-04,"Crème, 1 litre",4.17
+2023-05,"Crème, 1 litre",4.51
+2023-06,"Crème, 1 litre",4.62
+2023-07,"Crème, 1 litre",4.58
+2023-08,"Crème, 1 litre",4.76
+2023-09,"Crème, 1 litre",4.34
+2023-10,"Crème, 1 litre",4.31
+2023-11,"Crème, 1 litre",4.21
+2023-12,"Crème, 1 litre",4.17
+2024-01,"Crème, 1 litre",4.21
+2024-02,"Crème, 1 litre",4.18
+2024-03,"Crème, 1 litre",3.96
+2024-04,"Crème, 1 litre",4.29
+2024-05,"Crème, 1 litre",4.31
+2024-06,"Crème, 1 litre",4.41
+2024-07,"Crème, 1 litre",4.53
+2024-08,"Crème, 1 litre",4.51
+2024-09,"Crème, 1 litre",4.44
+2023-01,"Beurre, 454 grammes",5.65
+2023-02,"Beurre, 454 grammes",6.49
+2023-03,"Beurre, 454 grammes",5.15
+2023-04,"Beurre, 454 grammes",6.47
+2023-05,"Beurre, 454 grammes",6.27
+2023-06,"Beurre, 454 grammes",6.29
+2023-07,"Beurre, 454 grammes",6.01
+2023-08,"Beurre, 454 grammes",5.81
+2023-09,"Beurre, 454 grammes",5.42
+2023-10,"Beurre, 454 grammes",5.88
+2023-11,"Beurre, 454 grammes",5.93
+2023-12,"Beurre, 454 grammes",6.03
+2024-01,"Beurre, 454 grammes",6.0
+2024-02,"Beurre, 454 grammes",5.93
+2024-03,"Beurre, 454 grammes",5.35
+2024-04,"Beurre, 454 grammes",5.96
+2024-05,"Beurre, 454 grammes",5.78
+2024-06,"Beurre, 454 grammes",6.19
+2024-07,"Beurre, 454 grammes",6.29
+2024-08,"Beurre, 454 grammes",5.74
+2024-09,"Beurre, 454 grammes",5.38
+2023-01,"Margarine, 907 grammes",7.33
+2023-02,"Margarine, 907 grammes",7.18
+2023-03,"Margarine, 907 grammes",7.27
+2023-04,"Margarine, 907 grammes",7.65
+2023-05,"Margarine, 907 grammes",7.76
+2023-06,"Margarine, 907 grammes",7.83
+2023-07,"Margarine, 907 grammes",7.79
+2023-08,"Margarine, 907 grammes",7.8
+2023-09,"Margarine, 907 grammes",7.98
+2023-10,"Margarine, 907 grammes",7.86
+2023-11,"Margarine, 907 grammes",7.61
+2023-12,"Margarine, 907 grammes",7.71
+2024-01,"Margarine, 907 grammes",7.56
+2024-02,"Margarine, 907 grammes",7.54
+2024-03,"Margarine, 907 grammes",7.53
+2024-04,"Margarine, 907 grammes",6.99
+2024-05,"Margarine, 907 grammes",7.43
+2024-06,"Margarine, 907 grammes",7.02
+2024-07,"Margarine, 907 grammes",7.51
+2024-08,"Margarine, 907 grammes",7.2
+2024-09,"Margarine, 907 grammes",7.34
+2023-01,"Fromage en bloc, 500  grammes",6.91
+2023-02,"Fromage en bloc, 500  grammes",6.8
+2023-03,"Fromage en bloc, 500  grammes",6.91
+2023-04,"Fromage en bloc, 500  grammes",6.81
+2023-05,"Fromage en bloc, 500  grammes",6.95
+2023-06,"Fromage en bloc, 500  grammes",6.68
+2023-07,"Fromage en bloc, 500  grammes",6.99
+2023-08,"Fromage en bloc, 500  grammes",6.65
+2023-09,"Fromage en bloc, 500  grammes",7.03
+2023-10,"Fromage en bloc, 500  grammes",6.49
+2023-11,"Fromage en bloc, 500  grammes",6.81
+2023-12,"Fromage en bloc, 500  grammes",6.3
+2024-01,"Fromage en bloc, 500  grammes",6.84
+2024-02,"Fromage en bloc, 500  grammes",6.6
+2024-03,"Fromage en bloc, 500  grammes",6.62
+2024-04,"Fromage en bloc, 500  grammes",6.99
+2024-05,"Fromage en bloc, 500  grammes",6.86
+2024-06,"Fromage en bloc, 500  grammes",6.85
+2024-07,"Fromage en bloc, 500  grammes",7.0
+2024-08,"Fromage en bloc, 500  grammes",7.0
+2024-09,"Fromage en bloc, 500  grammes",6.69
+2023-01,"Yogourt, 500 grammes",3.02
+2023-02,"Yogourt, 500 grammes",2.95
+2023-03,"Yogourt, 500 grammes",3.02
+2023-04,"Yogourt, 500 grammes",3.03
+2023-05,"Yogourt, 500 grammes",3.04
+2023-06,"Yogourt, 500 grammes",3.07
+2023-07,"Yogourt, 500 grammes",3.15
+2023-08,"Yogourt, 500 grammes",3.09
+2023-09,"Yogourt, 500 grammes",3.14
+2023-10,"Yogourt, 500 grammes",3.08
+2023-11,"Yogourt, 500 grammes",3.05
+2023-12,"Yogourt, 500 grammes",3.33
+2024-01,"Yogourt, 500 grammes",3.25
+2024-02,"Yogourt, 500 grammes",3.28
+2024-03,"Yogourt, 500 grammes",3.27
+2024-04,"Yogourt, 500 grammes",3.28
+2024-05,"Yogourt, 500 grammes",3.38
+2024-06,"Yogourt, 500 grammes",3.41
+2024-07,"Yogourt, 500 grammes",3.47
+2024-08,"Yogourt, 500 grammes",3.47
+2024-09,"Yogourt, 500 grammes",3.45
+2023-01,"Oeufs, 1 douzaine",4.62
+2023-02,"Oeufs, 1 douzaine",4.64
+2023-03,"Oeufs, 1 douzaine",4.66
+2023-04,"Oeufs, 1 douzaine",4.67
+2023-05,"Oeufs, 1 douzaine",4.55
+2023-06,"Oeufs, 1 douzaine",4.67
+2023-07,"Oeufs, 1 douzaine",4.75
+2023-08,"Oeufs, 1 douzaine",4.75
+2023-09,"Oeufs, 1 douzaine",4.52
+2023-10,"Oeufs, 1 douzaine",4.8
+2023-11,"Oeufs, 1 douzaine",4.74
+2023-12,"Oeufs, 1 douzaine",4.85
+2024-01,"Oeufs, 1 douzaine",4.66
+2024-02,"Oeufs, 1 douzaine",4.7
+2024-03,"Oeufs, 1 douzaine",4.53
+2024-04,"Oeufs, 1 douzaine",4.76
+2024-05,"Oeufs, 1 douzaine",4.79
+2024-06,"Oeufs, 1 douzaine",4.53
+2024-07,"Oeufs, 1 douzaine",4.73
+2024-08,"Oeufs, 1 douzaine",4.82
+2024-09,"Oeufs, 1 douzaine",4.85
+2023-01,"Pommes, par kilogramme",5.29
+2023-02,"Pommes, par kilogramme",5.04
+2023-03,"Pommes, par kilogramme",5.72
+2023-04,"Pommes, par kilogramme",5.38
+2023-05,"Pommes, par kilogramme",5.63
+2023-06,"Pommes, par kilogramme",5.74
+2023-07,"Pommes, par kilogramme",5.64
+2023-08,"Pommes, par kilogramme",5.82
+2023-09,"Pommes, par kilogramme",4.27
+2023-10,"Pommes, par kilogramme",4.3
+2023-11,"Pommes, par kilogramme",4.58
+2023-12,"Pommes, par kilogramme",5.31
+2024-01,"Pommes, par kilogramme",4.98
+2024-02,"Pommes, par kilogramme",4.94
+2024-03,"Pommes, par kilogramme",4.55
+2024-04,"Pommes, par kilogramme",4.68
+2024-05,"Pommes, par kilogramme",4.85
+2024-06,"Pommes, par kilogramme",5.38
+2024-07,"Pommes, par kilogramme",5.54
+2024-08,"Pommes, par kilogramme",5.48
+2024-09,"Pommes, par kilogramme",4.1
+2023-01,"Oranges, par kilogramme",3.71
+2023-02,"Oranges, par kilogramme",2.97
+2023-03,"Oranges, par kilogramme",4.03
+2023-04,"Oranges, par kilogramme",3.75
+2023-05,"Oranges, par kilogramme",4.67
+2023-06,"Oranges, par kilogramme",4.84
+2023-07,"Oranges, par kilogramme",4.56
+2023-08,"Oranges, par kilogramme",4.51
+2023-09,"Oranges, par kilogramme",3.19
+2023-10,"Oranges, par kilogramme",3.16
+2023-11,"Oranges, par kilogramme",3.26
+2023-12,"Oranges, par kilogramme",3.84
+2024-01,"Oranges, par kilogramme",3.03
+2024-02,"Oranges, par kilogramme",2.96
+2024-03,"Oranges, par kilogramme",3.74
+2024-04,"Oranges, par kilogramme",2.85
+2024-05,"Oranges, par kilogramme",4.08
+2024-06,"Oranges, par kilogramme",4.2
+2024-07,"Oranges, par kilogramme",3.52
+2024-08,"Oranges, par kilogramme",4.11
+2024-09,"Oranges, par kilogramme",4.32
+2023-01,"Oranges, 1,36 kilogrammes",5.12
+2023-02,"Oranges, 1,36 kilogrammes",4.58
+2023-03,"Oranges, 1,36 kilogrammes",5.58
+2023-04,"Oranges, 1,36 kilogrammes",5.37
+2023-05,"Oranges, 1,36 kilogrammes",6.11
+2023-06,"Oranges, 1,36 kilogrammes",6.26
+2023-07,"Oranges, 1,36 kilogrammes",6.11
+2023-08,"Oranges, 1,36 kilogrammes",6.04
+2023-09,"Oranges, 1,36 kilogrammes",4.73
+2023-10,"Oranges, 1,36 kilogrammes",4.74
+2023-11,"Oranges, 1,36 kilogrammes",4.91
+2023-12,"Oranges, 1,36 kilogrammes",5.5
+2024-01,"Oranges, 1,36 kilogrammes",4.62
+2024-02,"Oranges, 1,36 kilogrammes",4.61
+2024-03,"Oranges, 1,36 kilogrammes",5.18
+2024-04,"Oranges, 1,36 kilogrammes",4.18
+2024-05,"Oranges, 1,36 kilogrammes",4.86
+2024-06,"Oranges, 1,36 kilogrammes",5.08
+2024-07,"Oranges, 1,36 kilogrammes",4.66
+2024-08,"Oranges, 1,36 kilogrammes",5.56
+2024-09,"Oranges, 1,36 kilogrammes",5.17
+2023-01,"Bananes, par kilogramme",1.49
+2023-02,"Bananes, par kilogramme",1.49
+2023-03,"Bananes, par kilogramme",1.49
+2023-04,"Bananes, par kilogramme",1.48
+2023-05,"Bananes, par kilogramme",1.49
+2023-06,"Bananes, par kilogramme",1.5
+2023-07,"Bananes, par kilogramme",1.49
+2023-08,"Bananes, par kilogramme",1.48
+2023-09,"Bananes, par kilogramme",1.48
+2023-10,"Bananes, par kilogramme",1.48
+2023-11,"Bananes, par kilogramme",1.47
+2023-12,"Bananes, par kilogramme",1.47
+2024-01,"Bananes, par kilogramme",1.45
+2024-02,"Bananes, par kilogramme",1.45
+2024-03,"Bananes, par kilogramme",1.45
+2024-04,"Bananes, par kilogramme",1.45
+2024-05,"Bananes, par kilogramme",1.45
+2024-06,"Bananes, par kilogramme",1.45
+2024-07,"Bananes, par kilogramme",1.44
+2024-08,"Bananes, par kilogramme",1.45
+2024-09,"Bananes, par kilogramme",1.44
+2023-01,"Poires, par kilogramme",5.69
+2023-02,"Poires, par kilogramme",5.94
+2023-03,"Poires, par kilogramme",5.26
+2023-04,"Poires, par kilogramme",4.9
+2023-05,"Poires, par kilogramme",4.3
+2023-06,"Poires, par kilogramme",4.78
+2023-07,"Poires, par kilogramme",5.14
+2023-08,"Poires, par kilogramme",5.79
+2023-09,"Poires, par kilogramme",5.16
+2023-10,"Poires, par kilogramme",5.46
+2023-11,"Poires, par kilogramme",4.4
+2023-12,"Poires, par kilogramme",5.7
+2024-01,"Poires, par kilogramme",4.45
+2024-02,"Poires, par kilogramme",5.59
+2024-03,"Poires, par kilogramme",4.83
+2024-04,"Poires, par kilogramme",4.76
+2024-05,"Poires, par kilogramme",4.84
+2024-06,"Poires, par kilogramme",5.24
+2024-07,"Poires, par kilogramme",5.07
+2024-08,"Poires, par kilogramme",5.4
+2024-09,"Poires, par kilogramme",5.15
+2023-01,"Citrons, unité",0.86
+2023-02,"Citrons, unité",0.98
+2023-03,"Citrons, unité",0.93
+2023-04,"Citrons, unité",1.0
+2023-05,"Citrons, unité",0.86
+2023-06,"Citrons, unité",0.85
+2023-07,"Citrons, unité",0.79
+2023-08,"Citrons, unité",0.82
+2023-09,"Citrons, unité",0.73
+2023-10,"Citrons, unité",0.82
+2023-11,"Citrons, unité",0.88
+2023-12,"Citrons, unité",0.93
+2024-01,"Citrons, unité",0.9
+2024-02,"Citrons, unité",0.91
+2024-03,"Citrons, unité",0.92
+2024-04,"Citrons, unité",0.91
+2024-05,"Citrons, unité",0.88
+2024-06,"Citrons, unité",0.89
+2024-07,"Citrons, unité",0.9
+2024-08,"Citrons, unité",0.83
+2024-09,"Citrons, unité",0.89
+2023-01,"Limes, unité",0.74
+2023-02,"Limes, unité",0.76
+2023-03,"Limes, unité",0.79
+2023-04,"Limes, unité",0.81
+2023-05,"Limes, unité",0.72
+2023-06,"Limes, unité",0.67
+2023-07,"Limes, unité",0.65
+2023-08,"Limes, unité",0.76
+2023-09,"Limes, unité",0.67
+2023-10,"Limes, unité",0.75
+2023-11,"Limes, unité",0.79
+2023-12,"Limes, unité",0.84
+2024-01,"Limes, unité",0.81
+2024-02,"Limes, unité",0.7
+2024-03,"Limes, unité",0.79
+2024-04,"Limes, unité",0.77
+2024-05,"Limes, unité",0.66
+2024-06,"Limes, unité",0.61
+2024-07,"Limes, unité",0.72
+2024-08,"Limes, unité",0.74
+2024-09,"Limes, unité",0.73
+2023-01,"Raisins, par kilogramme",6.82
+2023-02,"Raisins, par kilogramme",7.02
+2023-03,"Raisins, par kilogramme",6.62
+2023-04,"Raisins, par kilogramme",5.74
+2023-05,"Raisins, par kilogramme",9.51
+2023-06,"Raisins, par kilogramme",8.43
+2023-07,"Raisins, par kilogramme",6.12
+2023-08,"Raisins, par kilogramme",6.7
+2023-09,"Raisins, par kilogramme",7.1
+2023-10,"Raisins, par kilogramme",7.85
+2023-11,"Raisins, par kilogramme",8.44
+2023-12,"Raisins, par kilogramme",8.54
+2024-01,"Raisins, par kilogramme",7.81
+2024-02,"Raisins, par kilogramme",6.98
+2024-03,"Raisins, par kilogramme",6.5
+2024-04,"Raisins, par kilogramme",8.14
+2024-05,"Raisins, par kilogramme",8.96
+2024-06,"Raisins, par kilogramme",6.11
+2024-07,"Raisins, par kilogramme",6.28
+2024-08,"Raisins, par kilogramme",6.4
+2024-09,"Raisins, par kilogramme",5.85
+2023-01,"Cantaloup, unité",3.06
+2023-02,"Cantaloup, unité",3.28
+2023-03,"Cantaloup, unité",2.78
+2023-04,"Cantaloup, unité",2.88
+2023-05,"Cantaloup, unité",3.85
+2023-06,"Cantaloup, unité",3.67
+2023-07,"Cantaloup, unité",3.12
+2023-08,"Cantaloup, unité",2.26
+2023-09,"Cantaloup, unité",2.99
+2023-10,"Cantaloup, unité",4.13
+2023-11,"Cantaloup, unité",3.71
+2023-12,"Cantaloup, unité",3.47
+2024-01,"Cantaloup, unité",3.3
+2024-02,"Cantaloup, unité",2.96
+2024-03,"Cantaloup, unité",2.59
+2024-04,"Cantaloup, unité",2.87
+2024-05,"Cantaloup, unité",2.78
+2024-06,"Cantaloup, unité",2.87
+2024-07,"Cantaloup, unité",2.94
+2024-08,"Cantaloup, unité",2.37
+2024-09,"Cantaloup, unité",3.52
+2023-01,"Fraises, 454 grammes",4.27
+2023-02,"Fraises, 454 grammes",4.02
+2023-03,"Fraises, 454 grammes",3.4
+2023-04,"Fraises, 454 grammes",5.31
+2023-05,"Fraises, 454 grammes",3.16
+2023-06,"Fraises, 454 grammes",2.89
+2023-07,"Fraises, 454 grammes",3.1
+2023-08,"Fraises, 454 grammes",4.22
+2023-09,"Fraises, 454 grammes",4.18
+2023-10,"Fraises, 454 grammes",3.35
+2023-11,"Fraises, 454 grammes",5.21
+2023-12,"Fraises, 454 grammes",5.79
+2024-01,"Fraises, 454 grammes",4.9
+2024-02,"Fraises, 454 grammes",3.63
+2024-03,"Fraises, 454 grammes",3.09
+2024-04,"Fraises, 454 grammes",3.19
+2024-05,"Fraises, 454 grammes",2.93
+2024-06,"Fraises, 454 grammes",2.52
+2024-07,"Fraises, 454 grammes",3.45
+2024-08,"Fraises, 454 grammes",4.19
+2024-09,"Fraises, 454 grammes",4.23
+2023-01,"Avocat, unité",1.84
+2023-02,"Avocat, unité",1.72
+2023-03,"Avocat, unité",1.85
+2023-04,"Avocat, unité",2.09
+2023-05,"Avocat, unité",1.99
+2023-06,"Avocat, unité",2.03
+2023-07,"Avocat, unité",2.04
+2023-08,"Avocat, unité",2.19
+2023-09,"Avocat, unité",2.28
+2023-10,"Avocat, unité",2.3
+2023-11,"Avocat, unité",2.19
+2023-12,"Avocat, unité",2.16
+2024-01,"Avocat, unité",2.03
+2024-02,"Avocat, unité",2.05
+2024-03,"Avocat, unité",2.09
+2024-04,"Avocat, unité",1.84
+2024-05,"Avocat, unité",2.08
+2024-06,"Avocat, unité",2.24
+2024-07,"Avocat, unité",2.48
+2024-08,"Avocat, unité",2.5
+2024-09,"Avocat, unité",2.25
+2023-01,"Pommes de terre, 4,54 kilogrammes",4.85
+2023-02,"Pommes de terre, 4,54 kilogrammes",4.42
+2023-03,"Pommes de terre, 4,54 kilogrammes",4.44
+2023-04,"Pommes de terre, 4,54 kilogrammes",4.52
+2023-05,"Pommes de terre, 4,54 kilogrammes",5.35
+2023-06,"Pommes de terre, 4,54 kilogrammes",5.36
+2023-07,"Pommes de terre, 4,54 kilogrammes",5.23
+2023-08,"Pommes de terre, 4,54 kilogrammes",5.05
+2023-09,"Pommes de terre, 4,54 kilogrammes",3.81
+2023-10,"Pommes de terre, 4,54 kilogrammes",4.03
+2023-11,"Pommes de terre, 4,54 kilogrammes",4.3
+2023-12,"Pommes de terre, 4,54 kilogrammes",4.4
+2024-01,"Pommes de terre, 4,54 kilogrammes",5.15
+2024-02,"Pommes de terre, 4,54 kilogrammes",3.67
+2024-03,"Pommes de terre, 4,54 kilogrammes",4.83
+2024-04,"Pommes de terre, 4,54 kilogrammes",5.18
+2024-05,"Pommes de terre, 4,54 kilogrammes",5.93
+2024-06,"Pommes de terre, 4,54 kilogrammes",5.84
+2024-07,"Pommes de terre, 4,54 kilogrammes",5.16
+2024-08,"Pommes de terre, 4,54 kilogrammes",4.4
+2024-09,"Pommes de terre, 4,54 kilogrammes",3.54
+2023-01,"Pommes de terre, par kilogramme",4.56
+2023-02,"Pommes de terre, par kilogramme",4.67
+2023-03,"Pommes de terre, par kilogramme",4.7
+2023-04,"Pommes de terre, par kilogramme",4.95
+2023-05,"Pommes de terre, par kilogramme",5.13
+2023-06,"Pommes de terre, par kilogramme",5.22
+2023-07,"Pommes de terre, par kilogramme",5.2
+2023-08,"Pommes de terre, par kilogramme",5.06
+2023-09,"Pommes de terre, par kilogramme",4.83
+2023-10,"Pommes de terre, par kilogramme",4.82
+2023-11,"Pommes de terre, par kilogramme",4.84
+2023-12,"Pommes de terre, par kilogramme",4.99
+2024-01,"Pommes de terre, par kilogramme",4.83
+2024-02,"Pommes de terre, par kilogramme",4.79
+2024-03,"Pommes de terre, par kilogramme",4.79
+2024-04,"Pommes de terre, par kilogramme",4.74
+2024-05,"Pommes de terre, par kilogramme",5.01
+2024-06,"Pommes de terre, par kilogramme",4.99
+2024-07,"Pommes de terre, par kilogramme",4.95
+2024-08,"Pommes de terre, par kilogramme",4.89
+2024-09,"Pommes de terre, par kilogramme",4.89
+2023-01,"Patates douces, par kilogramme",3.98
+2023-02,"Patates douces, par kilogramme",3.54
+2023-03,"Patates douces, par kilogramme",3.73
+2023-04,"Patates douces, par kilogramme",3.24
+2023-05,"Patates douces, par kilogramme",4.04
+2023-06,"Patates douces, par kilogramme",4.1
+2023-07,"Patates douces, par kilogramme",4.21
+2023-08,"Patates douces, par kilogramme",4.29
+2023-09,"Patates douces, par kilogramme",3.92
+2023-10,"Patates douces, par kilogramme",3.36
+2023-11,"Patates douces, par kilogramme",3.62
+2023-12,"Patates douces, par kilogramme",3.49
+2024-01,"Patates douces, par kilogramme",4.0
+2024-02,"Patates douces, par kilogramme",3.98
+2024-03,"Patates douces, par kilogramme",3.5
+2024-04,"Patates douces, par kilogramme",3.75
+2024-05,"Patates douces, par kilogramme",4.11
+2024-06,"Patates douces, par kilogramme",4.19
+2024-07,"Patates douces, par kilogramme",4.0
+2024-08,"Patates douces, par kilogramme",4.21
+2024-09,"Patates douces, par kilogramme",3.78
+2023-01,"Tomates, par kilogramme",6.54
+2023-02,"Tomates, par kilogramme",5.39
+2023-03,"Tomates, par kilogramme",4.92
+2023-04,"Tomates, par kilogramme",4.2
+2023-05,"Tomates, par kilogramme",4.06
+2023-06,"Tomates, par kilogramme",4.43
+2023-07,"Tomates, par kilogramme",4.5
+2023-08,"Tomates, par kilogramme",4.12
+2023-09,"Tomates, par kilogramme",3.93
+2023-10,"Tomates, par kilogramme",4.58
+2023-11,"Tomates, par kilogramme",5.14
+2023-12,"Tomates, par kilogramme",5.49
+2024-01,"Tomates, par kilogramme",6.26
+2024-02,"Tomates, par kilogramme",5.58
+2024-03,"Tomates, par kilogramme",4.72
+2024-04,"Tomates, par kilogramme",4.02
+2024-05,"Tomates, par kilogramme",4.16
+2024-06,"Tomates, par kilogramme",4.2
+2024-07,"Tomates, par kilogramme",4.26
+2024-08,"Tomates, par kilogramme",4.23
+2024-09,"Tomates, par kilogramme",4.32
+2023-01,"Chou, par kilogramme",2.42
+2023-02,"Chou, par kilogramme",2.46
+2023-03,"Chou, par kilogramme",2.36
+2023-04,"Chou, par kilogramme",2.56
+2023-05,"Chou, par kilogramme",2.78
+2023-06,"Chou, par kilogramme",2.65
+2023-07,"Chou, par kilogramme",2.64
+2023-08,"Chou, par kilogramme",2.39
+2023-09,"Chou, par kilogramme",2.15
+2023-10,"Chou, par kilogramme",2.04
+2023-11,"Chou, par kilogramme",2.23
+2023-12,"Chou, par kilogramme",2.07
+2024-01,"Chou, par kilogramme",2.32
+2024-02,"Chou, par kilogramme",2.46
+2024-03,"Chou, par kilogramme",2.33
+2024-04,"Chou, par kilogramme",2.57
+2024-05,"Chou, par kilogramme",2.58
+2024-06,"Chou, par kilogramme",2.67
+2024-07,"Chou, par kilogramme",2.67
+2024-08,"Chou, par kilogramme",2.51
+2024-09,"Chou, par kilogramme",2.24
+2023-01,"Carottes, 1,36 kilogrammes",3.37
+2023-02,"Carottes, 1,36 kilogrammes",3.69
+2023-03,"Carottes, 1,36 kilogrammes",4.02
+2023-04,"Carottes, 1,36 kilogrammes",3.97
+2023-05,"Carottes, 1,36 kilogrammes",3.93
+2023-06,"Carottes, 1,36 kilogrammes",4.06
+2023-07,"Carottes, 1,36 kilogrammes",3.86
+2023-08,"Carottes, 1,36 kilogrammes",3.53
+2023-09,"Carottes, 1,36 kilogrammes",3.5
+2023-10,"Carottes, 1,36 kilogrammes",3.54
+2023-11,"Carottes, 1,36 kilogrammes",3.64
+2023-12,"Carottes, 1,36 kilogrammes",3.7
+2024-01,"Carottes, 1,36 kilogrammes",3.76
+2024-02,"Carottes, 1,36 kilogrammes",4.06
+2024-03,"Carottes, 1,36 kilogrammes",3.33
+2024-04,"Carottes, 1,36 kilogrammes",4.05
+2024-05,"Carottes, 1,36 kilogrammes",3.85
+2024-06,"Carottes, 1,36 kilogrammes",4.11
+2024-07,"Carottes, 1,36 kilogrammes",4.16
+2024-08,"Carottes, 1,36 kilogrammes",3.87
+2024-09,"Carottes, 1,36 kilogrammes",3.24
+2023-01,"Oignons, par kilogramme",5.53
+2023-02,"Oignons, par kilogramme",5.5
+2023-03,"Oignons, par kilogramme",5.48
+2023-04,"Oignons, par kilogramme",5.36
+2023-05,"Oignons, par kilogramme",5.3
+2023-06,"Oignons, par kilogramme",5.3
+2023-07,"Oignons, par kilogramme",5.4
+2023-08,"Oignons, par kilogramme",5.47
+2023-09,"Oignons, par kilogramme",5.39
+2023-10,"Oignons, par kilogramme",5.25
+2023-11,"Oignons, par kilogramme",5.27
+2023-12,"Oignons, par kilogramme",5.56
+2024-01,"Oignons, par kilogramme",5.37
+2024-02,"Oignons, par kilogramme",5.61
+2024-03,"Oignons, par kilogramme",5.86
+2024-04,"Oignons, par kilogramme",5.72
+2024-05,"Oignons, par kilogramme",5.81
+2024-06,"Oignons, par kilogramme",5.97
+2024-07,"Oignons, par kilogramme",6.18
+2024-08,"Oignons, par kilogramme",5.93
+2024-09,"Oignons, par kilogramme",5.96
+2023-01,"Oignons, 1,36 kilogrammes",4.51
+2023-02,"Oignons, 1,36 kilogrammes",4.59
+2023-03,"Oignons, 1,36 kilogrammes",4.42
+2023-04,"Oignons, 1,36 kilogrammes",4.49
+2023-05,"Oignons, 1,36 kilogrammes",4.57
+2023-06,"Oignons, 1,36 kilogrammes",4.79
+2023-07,"Oignons, 1,36 kilogrammes",4.98
+2023-08,"Oignons, 1,36 kilogrammes",4.95
+2023-09,"Oignons, 1,36 kilogrammes",4.71
+2023-10,"Oignons, 1,36 kilogrammes",4.49
+2023-11,"Oignons, 1,36 kilogrammes",4.54
+2023-12,"Oignons, 1,36 kilogrammes",4.71
+2024-01,"Oignons, 1,36 kilogrammes",4.51
+2024-02,"Oignons, 1,36 kilogrammes",4.79
+2024-03,"Oignons, 1,36 kilogrammes",4.36
+2024-04,"Oignons, 1,36 kilogrammes",4.89
+2024-05,"Oignons, 1,36 kilogrammes",5.08
+2024-06,"Oignons, 1,36 kilogrammes",5.42
+2024-07,"Oignons, 1,36 kilogrammes",5.56
+2024-08,"Oignons, 1,36 kilogrammes",5.13
+2024-09,"Oignons, 1,36 kilogrammes",4.61
+2023-01,"Céleri, unité",4.29
+2023-02,"Céleri, unité",4.04
+2023-03,"Céleri, unité",3.53
+2023-04,"Céleri, unité",3.45
+2023-05,"Céleri, unité",3.67
+2023-06,"Céleri, unité",3.96
+2023-07,"Céleri, unité",3.38
+2023-08,"Céleri, unité",2.99
+2023-09,"Céleri, unité",2.89
+2023-10,"Céleri, unité",3.2
+2023-11,"Céleri, unité",3.54
+2023-12,"Céleri, unité",3.49
+2024-01,"Céleri, unité",3.53
+2024-02,"Céleri, unité",3.32
+2024-03,"Céleri, unité",3.26
+2024-04,"Céleri, unité",2.97
+2024-05,"Céleri, unité",3.45
+2024-06,"Céleri, unité",3.35
+2024-07,"Céleri, unité",3.29
+2024-08,"Céleri, unité",2.8
+2024-09,"Céleri, unité",2.56
+2023-01,"Concombre, unité",1.96
+2023-02,"Concombre, unité",2.19
+2023-03,"Concombre, unité",1.58
+2023-04,"Concombre, unité",1.4
+2023-05,"Concombre, unité",1.31
+2023-06,"Concombre, unité",1.29
+2023-07,"Concombre, unité",1.37
+2023-08,"Concombre, unité",1.45
+2023-09,"Concombre, unité",1.57
+2023-10,"Concombre, unité",1.72
+2023-11,"Concombre, unité",1.66
+2023-12,"Concombre, unité",1.72
+2024-01,"Concombre, unité",1.99
+2024-02,"Concombre, unité",1.81
+2024-03,"Concombre, unité",1.53
+2024-04,"Concombre, unité",1.43
+2024-05,"Concombre, unité",1.14
+2024-06,"Concombre, unité",1.32
+2024-07,"Concombre, unité",1.3
+2024-08,"Concombre, unité",1.5
+2024-09,"Concombre, unité",1.63
+2023-01,"Champignons, 227 grammes",2.56
+2023-02,"Champignons, 227 grammes",2.62
+2023-03,"Champignons, 227 grammes",2.7
+2023-04,"Champignons, 227 grammes",2.62
+2023-05,"Champignons, 227 grammes",2.65
+2023-06,"Champignons, 227 grammes",2.41
+2023-07,"Champignons, 227 grammes",2.35
+2023-08,"Champignons, 227 grammes",2.65
+2023-09,"Champignons, 227 grammes",2.27
+2023-10,"Champignons, 227 grammes",2.64
+2023-11,"Champignons, 227 grammes",2.64
+2023-12,"Champignons, 227 grammes",2.67
+2024-01,"Champignons, 227 grammes",2.35
+2024-02,"Champignons, 227 grammes",2.5
+2024-03,"Champignons, 227 grammes",2.33
+2024-04,"Champignons, 227 grammes",2.31
+2024-05,"Champignons, 227 grammes",2.59
+2024-06,"Champignons, 227 grammes",2.15
+2024-07,"Champignons, 227 grammes",2.28
+2024-08,"Champignons, 227 grammes",2.55
+2024-09,"Champignons, 227 grammes",2.58
+2023-01,"Laitue iceberg, unité",2.94
+2023-02,"Laitue iceberg, unité",2.74
+2023-03,"Laitue iceberg, unité",2.84
+2023-04,"Laitue iceberg, unité",3.1
+2023-05,"Laitue iceberg, unité",3.16
+2023-06,"Laitue iceberg, unité",2.65
+2023-07,"Laitue iceberg, unité",2.45
+2023-08,"Laitue iceberg, unité",2.76
+2023-09,"Laitue iceberg, unité",2.82
+2023-10,"Laitue iceberg, unité",2.99
+2023-11,"Laitue iceberg, unité",3.02
+2023-12,"Laitue iceberg, unité",3.11
+2024-01,"Laitue iceberg, unité",2.79
+2024-02,"Laitue iceberg, unité",2.92
+2024-03,"Laitue iceberg, unité",3.19
+2024-04,"Laitue iceberg, unité",3.24
+2024-05,"Laitue iceberg, unité",3.15
+2024-06,"Laitue iceberg, unité",3.18
+2024-07,"Laitue iceberg, unité",2.47
+2024-08,"Laitue iceberg, unité",2.7
+2024-09,"Laitue iceberg, unité",2.21
+2023-01,"Laitue romaine, unité",3.99
+2023-02,"Laitue romaine, unité",3.4
+2023-03,"Laitue romaine, unité",3.18
+2023-04,"Laitue romaine, unité",3.25
+2023-05,"Laitue romaine, unité",3.5
+2023-06,"Laitue romaine, unité",2.74
+2023-07,"Laitue romaine, unité",2.18
+2023-08,"Laitue romaine, unité",2.14
+2023-09,"Laitue romaine, unité",2.38
+2023-10,"Laitue romaine, unité",2.53
+2023-11,"Laitue romaine, unité",2.98
+2023-12,"Laitue romaine, unité",3.01
+2024-01,"Laitue romaine, unité",3.17
+2024-02,"Laitue romaine, unité",3.09
+2024-03,"Laitue romaine, unité",3.47
+2024-04,"Laitue romaine, unité",3.64
+2024-05,"Laitue romaine, unité",3.94
+2024-06,"Laitue romaine, unité",3.2
+2024-07,"Laitue romaine, unité",2.81
+2024-08,"Laitue romaine, unité",2.41
+2024-09,"Laitue romaine, unité",2.88
+2023-01,"Brocoli, unité",3.12
+2023-02,"Brocoli, unité",2.89
+2023-03,"Brocoli, unité",2.89
+2023-04,"Brocoli, unité",2.87
+2023-05,"Brocoli, unité",2.91
+2023-06,"Brocoli, unité",2.86
+2023-07,"Brocoli, unité",2.28
+2023-08,"Brocoli, unité",2.66
+2023-09,"Brocoli, unité",2.23
+2023-10,"Brocoli, unité",2.57
+2023-11,"Brocoli, unité",2.83
+2023-12,"Brocoli, unité",2.76
+2024-01,"Brocoli, unité",2.48
+2024-02,"Brocoli, unité",2.27
+2024-03,"Brocoli, unité",2.21
+2024-04,"Brocoli, unité",2.21
+2024-05,"Brocoli, unité",2.5
+2024-06,"Brocoli, unité",2.91
+2024-07,"Brocoli, unité",2.47
+2024-08,"Brocoli, unité",2.55
+2024-09,"Brocoli, unité",2.08
+2023-01,"Poivrons, par kilogramme",8.84
+2023-02,"Poivrons, par kilogramme",8.53
+2023-03,"Poivrons, par kilogramme",8.01
+2023-04,"Poivrons, par kilogramme",7.91
+2023-05,"Poivrons, par kilogramme",7.54
+2023-06,"Poivrons, par kilogramme",7.22
+2023-07,"Poivrons, par kilogramme",7.04
+2023-08,"Poivrons, par kilogramme",5.63
+2023-09,"Poivrons, par kilogramme",5.12
+2023-10,"Poivrons, par kilogramme",6.75
+2023-11,"Poivrons, par kilogramme",7.75
+2023-12,"Poivrons, par kilogramme",8.45
+2024-01,"Poivrons, par kilogramme",8.75
+2024-02,"Poivrons, par kilogramme",8.36
+2024-03,"Poivrons, par kilogramme",8.67
+2024-04,"Poivrons, par kilogramme",6.38
+2024-05,"Poivrons, par kilogramme",7.32
+2024-06,"Poivrons, par kilogramme",6.63
+2024-07,"Poivrons, par kilogramme",7.62
+2024-08,"Poivrons, par kilogramme",7.48
+2024-09,"Poivrons, par kilogramme",6.01
+2023-01,"Courge, par kilogramme",4.37
+2023-02,"Courge, par kilogramme",4.61
+2023-03,"Courge, par kilogramme",4.41
+2023-04,"Courge, par kilogramme",4.65
+2023-05,"Courge, par kilogramme",5.13
+2023-06,"Courge, par kilogramme",5.17
+2023-07,"Courge, par kilogramme",4.84
+2023-08,"Courge, par kilogramme",4.6
+2023-09,"Courge, par kilogramme",3.39
+2023-10,"Courge, par kilogramme",2.99
+2023-11,"Courge, par kilogramme",3.5
+2023-12,"Courge, par kilogramme",3.88
+2024-01,"Courge, par kilogramme",4.52
+2024-02,"Courge, par kilogramme",4.38
+2024-03,"Courge, par kilogramme",4.16
+2024-04,"Courge, par kilogramme",3.9
+2024-05,"Courge, par kilogramme",4.23
+2024-06,"Courge, par kilogramme",4.27
+2024-07,"Courge, par kilogramme",4.71
+2024-08,"Courge, par kilogramme",4.38
+2024-09,"Courge, par kilogramme",3.31
+2023-01,"Légumes-feuilles, 142 grammes",4.51
+2023-02,"Légumes-feuilles, 142 grammes",4.52
+2023-03,"Légumes-feuilles, 142 grammes",4.59
+2023-04,"Légumes-feuilles, 142 grammes",4.63
+2023-05,"Légumes-feuilles, 142 grammes",4.57
+2023-06,"Légumes-feuilles, 142 grammes",4.55
+2023-07,"Légumes-feuilles, 142 grammes",4.57
+2023-08,"Légumes-feuilles, 142 grammes",4.65
+2023-09,"Légumes-feuilles, 142 grammes",4.51
+2023-10,"Légumes-feuilles, 142 grammes",4.59
+2023-11,"Légumes-feuilles, 142 grammes",4.6
+2023-12,"Légumes-feuilles, 142 grammes",4.64
+2024-01,"Légumes-feuilles, 142 grammes",4.45
+2024-02,"Légumes-feuilles, 142 grammes",4.41
+2024-03,"Légumes-feuilles, 142 grammes",4.39
+2024-04,"Légumes-feuilles, 142 grammes",4.25
+2024-05,"Légumes-feuilles, 142 grammes",4.32
+2024-06,"Légumes-feuilles, 142 grammes",4.32
+2024-07,"Légumes-feuilles, 142 grammes",4.33
+2024-08,"Légumes-feuilles, 142 grammes",4.34
+2024-09,"Légumes-feuilles, 142 grammes",4.28
+2023-01,"Pommes de terre frites surgelées, 750 grammes",2.64
+2023-02,"Pommes de terre frites surgelées, 750 grammes",2.78
+2023-03,"Pommes de terre frites surgelées, 750 grammes",2.91
+2023-04,"Pommes de terre frites surgelées, 750 grammes",2.95
+2023-05,"Pommes de terre frites surgelées, 750 grammes",3.02
+2023-06,"Pommes de terre frites surgelées, 750 grammes",3.05
+2023-07,"Pommes de terre frites surgelées, 750 grammes",3.18
+2023-08,"Pommes de terre frites surgelées, 750 grammes",3.17
+2023-09,"Pommes de terre frites surgelées, 750 grammes",3.18
+2023-10,"Pommes de terre frites surgelées, 750 grammes",3.23
+2023-11,"Pommes de terre frites surgelées, 750 grammes",3.02
+2023-12,"Pommes de terre frites surgelées, 750 grammes",3.12
+2024-01,"Pommes de terre frites surgelées, 750 grammes",3.37
+2024-02,"Pommes de terre frites surgelées, 750 grammes",3.5
+2024-03,"Pommes de terre frites surgelées, 750 grammes",3.59
+2024-04,"Pommes de terre frites surgelées, 750 grammes",2.81
+2024-05,"Pommes de terre frites surgelées, 750 grammes",3.45
+2024-06,"Pommes de terre frites surgelées, 750 grammes",3.02
+2024-07,"Pommes de terre frites surgelées, 750 grammes",3.61
+2024-08,"Pommes de terre frites surgelées, 750 grammes",3.33
+2024-09,"Pommes de terre frites surgelées, 750 grammes",3.4
+2023-01,"Haricots verts surgelés, 750 grammes",3.6
+2023-02,"Haricots verts surgelés, 750 grammes",3.81
+2023-03,"Haricots verts surgelés, 750 grammes",3.98
+2023-04,"Haricots verts surgelés, 750 grammes",3.81
+2023-05,"Haricots verts surgelés, 750 grammes",3.98
+2023-06,"Haricots verts surgelés, 750 grammes",3.93
+2023-07,"Haricots verts surgelés, 750 grammes",3.9
+2023-08,"Haricots verts surgelés, 750 grammes",3.89
+2023-09,"Haricots verts surgelés, 750 grammes",3.85
+2023-10,"Haricots verts surgelés, 750 grammes",3.8
+2023-11,"Haricots verts surgelés, 750 grammes",4.03
+2023-12,"Haricots verts surgelés, 750 grammes",3.99
+2024-01,"Haricots verts surgelés, 750 grammes",4.0
+2024-02,"Haricots verts surgelés, 750 grammes",4.01
+2024-03,"Haricots verts surgelés, 750 grammes",3.86
+2024-04,"Haricots verts surgelés, 750 grammes",4.16
+2024-05,"Haricots verts surgelés, 750 grammes",4.15
+2024-06,"Haricots verts surgelés, 750 grammes",4.08
+2024-07,"Haricots verts surgelés, 750 grammes",4.08
+2024-08,"Haricots verts surgelés, 750 grammes",3.94
+2024-09,"Haricots verts surgelés, 750 grammes",3.94
+2023-01,"Brocoli surgelé, 500 grammes",3.83
+2023-02,"Brocoli surgelé, 500 grammes",3.84
+2023-03,"Brocoli surgelé, 500 grammes",4.05
+2023-04,"Brocoli surgelé, 500 grammes",3.79
+2023-05,"Brocoli surgelé, 500 grammes",4.12
+2023-06,"Brocoli surgelé, 500 grammes",4.07
+2023-07,"Brocoli surgelé, 500 grammes",3.99
+2023-08,"Brocoli surgelé, 500 grammes",4.15
+2023-09,"Brocoli surgelé, 500 grammes",4.08
+2023-10,"Brocoli surgelé, 500 grammes",3.77
+2023-11,"Brocoli surgelé, 500 grammes",3.92
+2023-12,"Brocoli surgelé, 500 grammes",3.6
+2024-01,"Brocoli surgelé, 500 grammes",3.75
+2024-02,"Brocoli surgelé, 500 grammes",3.86
+2024-03,"Brocoli surgelé, 500 grammes",3.34
+2024-04,"Brocoli surgelé, 500 grammes",3.84
+2024-05,"Brocoli surgelé, 500 grammes",3.82
+2024-06,"Brocoli surgelé, 500 grammes",3.7
+2024-07,"Brocoli surgelé, 500 grammes",3.85
+2024-08,"Brocoli surgelé, 500 grammes",3.71
+2024-09,"Brocoli surgelé, 500 grammes",3.58
+2023-01,"Maïs surgelé, 750 grammes",3.27
+2023-02,"Maïs surgelé, 750 grammes",3.42
+2023-03,"Maïs surgelé, 750 grammes",3.57
+2023-04,"Maïs surgelé, 750 grammes",3.39
+2023-05,"Maïs surgelé, 750 grammes",3.59
+2023-06,"Maïs surgelé, 750 grammes",3.56
+2023-07,"Maïs surgelé, 750 grammes",3.51
+2023-08,"Maïs surgelé, 750 grammes",3.54
+2023-09,"Maïs surgelé, 750 grammes",3.43
+2023-10,"Maïs surgelé, 750 grammes",3.37
+2023-11,"Maïs surgelé, 750 grammes",3.64
+2023-12,"Maïs surgelé, 750 grammes",3.45
+2024-01,"Maïs surgelé, 750 grammes",3.47
+2024-02,"Maïs surgelé, 750 grammes",3.55
+2024-03,"Maïs surgelé, 750 grammes",3.16
+2024-04,"Maïs surgelé, 750 grammes",3.44
+2024-05,"Maïs surgelé, 750 grammes",3.52
+2024-06,"Maïs surgelé, 750 grammes",3.52
+2024-07,"Maïs surgelé, 750 grammes",3.56
+2024-08,"Maïs surgelé, 750 grammes",3.41
+2024-09,"Maïs surgelé, 750 grammes",3.39
+2023-01,"Mélange de légumes surgelé, 750 grammes",3.3
+2023-02,"Mélange de légumes surgelé, 750 grammes",3.56
+2023-03,"Mélange de légumes surgelé, 750 grammes",3.68
+2023-04,"Mélange de légumes surgelé, 750 grammes",3.43
+2023-05,"Mélange de légumes surgelé, 750 grammes",3.76
+2023-06,"Mélange de légumes surgelé, 750 grammes",3.83
+2023-07,"Mélange de légumes surgelé, 750 grammes",3.74
+2023-08,"Mélange de légumes surgelé, 750 grammes",3.73
+2023-09,"Mélange de légumes surgelé, 750 grammes",3.69
+2023-10,"Mélange de légumes surgelé, 750 grammes",3.56
+2023-11,"Mélange de légumes surgelé, 750 grammes",3.74
+2023-12,"Mélange de légumes surgelé, 750 grammes",3.67
+2024-01,"Mélange de légumes surgelé, 750 grammes",3.62
+2024-02,"Mélange de légumes surgelé, 750 grammes",3.73
+2024-03,"Mélange de légumes surgelé, 750 grammes",3.6
+2024-04,"Mélange de légumes surgelé, 750 grammes",3.74
+2024-05,"Mélange de légumes surgelé, 750 grammes",3.81
+2024-06,"Mélange de légumes surgelé, 750 grammes",3.79
+2024-07,"Mélange de légumes surgelé, 750 grammes",3.82
+2024-08,"Mélange de légumes surgelé, 750 grammes",3.67
+2024-09,"Mélange de légumes surgelé, 750 grammes",3.61
+2023-01,"Petits pois surgelés, 750 grammes",3.27
+2023-02,"Petits pois surgelés, 750 grammes",3.45
+2023-03,"Petits pois surgelés, 750 grammes",3.59
+2023-04,"Petits pois surgelés, 750 grammes",3.38
+2023-05,"Petits pois surgelés, 750 grammes",3.51
+2023-06,"Petits pois surgelés, 750 grammes",3.49
+2023-07,"Petits pois surgelés, 750 grammes",3.48
+2023-08,"Petits pois surgelés, 750 grammes",3.59
+2023-09,"Petits pois surgelés, 750 grammes",3.46
+2023-10,"Petits pois surgelés, 750 grammes",3.35
+2023-11,"Petits pois surgelés, 750 grammes",3.57
+2023-12,"Petits pois surgelés, 750 grammes",3.46
+2024-01,"Petits pois surgelés, 750 grammes",3.45
+2024-02,"Petits pois surgelés, 750 grammes",3.59
+2024-03,"Petits pois surgelés, 750 grammes",3.24
+2024-04,"Petits pois surgelés, 750 grammes",3.48
+2024-05,"Petits pois surgelés, 750 grammes",3.53
+2024-06,"Petits pois surgelés, 750 grammes",3.54
+2024-07,"Petits pois surgelés, 750 grammes",3.57
+2024-08,"Petits pois surgelés, 750 grammes",3.43
+2024-09,"Petits pois surgelés, 750 grammes",3.41
+2023-01,"Pizza surgelé, 390 grammes",4.77
+2023-02,"Pizza surgelé, 390 grammes",4.61
+2023-03,"Pizza surgelé, 390 grammes",4.78
+2023-04,"Pizza surgelé, 390 grammes",4.77
+2023-05,"Pizza surgelé, 390 grammes",4.63
+2023-06,"Pizza surgelé, 390 grammes",4.78
+2023-07,"Pizza surgelé, 390 grammes",4.89
+2023-08,"Pizza surgelé, 390 grammes",4.93
+2023-09,"Pizza surgelé, 390 grammes",4.61
+2023-10,"Pizza surgelé, 390 grammes",4.87
+2023-11,"Pizza surgelé, 390 grammes",4.65
+2023-12,"Pizza surgelé, 390 grammes",4.69
+2024-01,"Pizza surgelé, 390 grammes",4.67
+2024-02,"Pizza surgelé, 390 grammes",4.58
+2024-03,"Pizza surgelé, 390 grammes",4.63
+2024-04,"Pizza surgelé, 390 grammes",4.58
+2024-05,"Pizza surgelé, 390 grammes",4.96
+2024-06,"Pizza surgelé, 390 grammes",4.84
+2024-07,"Pizza surgelé, 390 grammes",4.69
+2024-08,"Pizza surgelé, 390 grammes",4.72
+2024-09,"Pizza surgelé, 390 grammes",4.54
+2023-01,"Épinard surgelé, 300 grammes",1.94
+2023-02,"Épinard surgelé, 300 grammes",2.18
+2023-03,"Épinard surgelé, 300 grammes",2.18
+2023-04,"Épinard surgelé, 300 grammes",2.17
+2023-05,"Épinard surgelé, 300 grammes",2.12
+2023-06,"Épinard surgelé, 300 grammes",1.94
+2023-07,"Épinard surgelé, 300 grammes",1.98
+2023-08,"Épinard surgelé, 300 grammes",2.01
+2023-09,"Épinard surgelé, 300 grammes",2.19
+2023-10,"Épinard surgelé, 300 grammes",1.91
+2023-11,"Épinard surgelé, 300 grammes",2.03
+2023-12,"Épinard surgelé, 300 grammes",1.87
+2024-01,"Épinard surgelé, 300 grammes",1.78
+2024-02,"Épinard surgelé, 300 grammes",1.89
+2024-03,"Épinard surgelé, 300 grammes",1.84
+2024-04,"Épinard surgelé, 300 grammes",1.92
+2024-05,"Épinard surgelé, 300 grammes",1.97
+2024-06,"Épinard surgelé, 300 grammes",1.93
+2024-07,"Épinard surgelé, 300 grammes",1.9
+2024-08,"Épinard surgelé, 300 grammes",1.9
+2024-09,"Épinard surgelé, 300 grammes",1.85
+2023-01,"Fraises surgelé, 600 grammes",5.25
+2023-02,"Fraises surgelé, 600 grammes",5.33
+2023-03,"Fraises surgelé, 600 grammes",5.25
+2023-04,"Fraises surgelé, 600 grammes",5.21
+2023-05,"Fraises surgelé, 600 grammes",5.12
+2023-06,"Fraises surgelé, 600 grammes",4.73
+2023-07,"Fraises surgelé, 600 grammes",5.24
+2023-08,"Fraises surgelé, 600 grammes",5.14
+2023-09,"Fraises surgelé, 600 grammes",4.89
+2023-10,"Fraises surgelé, 600 grammes",5.03
+2023-11,"Fraises surgelé, 600 grammes",4.56
+2023-12,"Fraises surgelé, 600 grammes",4.81
+2024-01,"Fraises surgelé, 600 grammes",4.96
+2024-02,"Fraises surgelé, 600 grammes",4.75
+2024-03,"Fraises surgelé, 600 grammes",4.68
+2024-04,"Fraises surgelé, 600 grammes",4.65
+2024-05,"Fraises surgelé, 600 grammes",4.89
+2024-06,"Fraises surgelé, 600 grammes",4.73
+2024-07,"Fraises surgelé, 600 grammes",4.68
+2024-08,"Fraises surgelé, 600 grammes",4.69
+2024-09,"Fraises surgelé, 600 grammes",4.72
+2023-01,"Pain blanc, 675 grammes",3.07
+2023-02,"Pain blanc, 675 grammes",3.02
+2023-03,"Pain blanc, 675 grammes",3.14
+2023-04,"Pain blanc, 675 grammes",3.12
+2023-05,"Pain blanc, 675 grammes",3.15
+2023-06,"Pain blanc, 675 grammes",3.09
+2023-07,"Pain blanc, 675 grammes",3.09
+2023-08,"Pain blanc, 675 grammes",3.05
+2023-09,"Pain blanc, 675 grammes",3.01
+2023-10,"Pain blanc, 675 grammes",3.08
+2023-11,"Pain blanc, 675 grammes",3.04
+2023-12,"Pain blanc, 675 grammes",3.11
+2024-01,"Pain blanc, 675 grammes",3.03
+2024-02,"Pain blanc, 675 grammes",3.06
+2024-03,"Pain blanc, 675 grammes",3.03
+2024-04,"Pain blanc, 675 grammes",3.01
+2024-05,"Pain blanc, 675 grammes",2.93
+2024-06,"Pain blanc, 675 grammes",3.01
+2024-07,"Pain blanc, 675 grammes",3.05
+2024-08,"Pain blanc, 675 grammes",3.0
+2024-09,"Pain blanc, 675 grammes",3.05
+2023-01,"Pain sans levain et pita, 500 grammes",3.67
+2023-02,"Pain sans levain et pita, 500 grammes",3.8
+2023-03,"Pain sans levain et pita, 500 grammes",3.63
+2023-04,"Pain sans levain et pita, 500 grammes",3.79
+2023-05,"Pain sans levain et pita, 500 grammes",3.75
+2023-06,"Pain sans levain et pita, 500 grammes",3.9
+2023-07,"Pain sans levain et pita, 500 grammes",4.01
+2023-08,"Pain sans levain et pita, 500 grammes",3.84
+2023-09,"Pain sans levain et pita, 500 grammes",3.91
+2023-10,"Pain sans levain et pita, 500 grammes",3.76
+2023-11,"Pain sans levain et pita, 500 grammes",3.66
+2023-12,"Pain sans levain et pita, 500 grammes",3.88
+2024-01,"Pain sans levain et pita, 500 grammes",3.24
+2024-02,"Pain sans levain et pita, 500 grammes",3.12
+2024-03,"Pain sans levain et pita, 500 grammes",3.05
+2024-04,"Pain sans levain et pita, 500 grammes",3.1
+2024-05,"Pain sans levain et pita, 500 grammes",3.33
+2024-06,"Pain sans levain et pita, 500 grammes",3.31
+2024-07,"Pain sans levain et pita, 500 grammes",3.3
+2024-08,"Pain sans levain et pita, 500 grammes",3.26
+2024-09,"Pain sans levain et pita, 500 grammes",3.31
+2023-01,"Craquelins et pain croustillant, 200 grammes",2.91
+2023-02,"Craquelins et pain croustillant, 200 grammes",2.95
+2023-03,"Craquelins et pain croustillant, 200 grammes",2.91
+2023-04,"Craquelins et pain croustillant, 200 grammes",2.92
+2023-05,"Craquelins et pain croustillant, 200 grammes",2.89
+2023-06,"Craquelins et pain croustillant, 200 grammes",2.88
+2023-07,"Craquelins et pain croustillant, 200 grammes",2.94
+2023-08,"Craquelins et pain croustillant, 200 grammes",2.94
+2023-09,"Craquelins et pain croustillant, 200 grammes",2.84
+2023-10,"Craquelins et pain croustillant, 200 grammes",2.68
+2023-11,"Craquelins et pain croustillant, 200 grammes",2.78
+2023-12,"Craquelins et pain croustillant, 200 grammes",2.65
+2024-01,"Craquelins et pain croustillant, 200 grammes",2.77
+2024-02,"Craquelins et pain croustillant, 200 grammes",2.79
+2024-03,"Craquelins et pain croustillant, 200 grammes",2.83
+2024-04,"Craquelins et pain croustillant, 200 grammes",2.79
+2024-05,"Craquelins et pain croustillant, 200 grammes",2.51
+2024-06,"Craquelins et pain croustillant, 200 grammes",2.97
+2024-07,"Craquelins et pain croustillant, 200 grammes",2.58
+2024-08,"Craquelins et pain croustillant, 200 grammes",2.81
+2024-09,"Craquelins et pain croustillant, 200 grammes",2.9
+2023-01,"Biscuits et biscuits sucrés, 300 grammes",3.14
+2023-02,"Biscuits et biscuits sucrés, 300 grammes",3.14
+2023-03,"Biscuits et biscuits sucrés, 300 grammes",3.29
+2023-04,"Biscuits et biscuits sucrés, 300 grammes",3.28
+2023-05,"Biscuits et biscuits sucrés, 300 grammes",3.17
+2023-06,"Biscuits et biscuits sucrés, 300 grammes",3.04
+2023-07,"Biscuits et biscuits sucrés, 300 grammes",3.25
+2023-08,"Biscuits et biscuits sucrés, 300 grammes",3.2
+2023-09,"Biscuits et biscuits sucrés, 300 grammes",3.15
+2023-10,"Biscuits et biscuits sucrés, 300 grammes",3.15
+2023-11,"Biscuits et biscuits sucrés, 300 grammes",3.02
+2023-12,"Biscuits et biscuits sucrés, 300 grammes",3.22
+2024-01,"Biscuits et biscuits sucrés, 300 grammes",3.11
+2024-02,"Biscuits et biscuits sucrés, 300 grammes",3.06
+2024-03,"Biscuits et biscuits sucrés, 300 grammes",2.99
+2024-04,"Biscuits et biscuits sucrés, 300 grammes",3.02
+2024-05,"Biscuits et biscuits sucrés, 300 grammes",3.01
+2024-06,"Biscuits et biscuits sucrés, 300 grammes",3.12
+2024-07,"Biscuits et biscuits sucrés, 300 grammes",3.23
+2024-08,"Biscuits et biscuits sucrés, 300 grammes",2.95
+2024-09,"Biscuits et biscuits sucrés, 300 grammes",3.13
+2023-01,"Pâtes sèches ou fraîches, 500 grammes",3.57
+2023-02,"Pâtes sèches ou fraîches, 500 grammes",3.78
+2023-03,"Pâtes sèches ou fraîches, 500 grammes",3.7
+2023-04,"Pâtes sèches ou fraîches, 500 grammes",3.67
+2023-05,"Pâtes sèches ou fraîches, 500 grammes",3.54
+2023-06,"Pâtes sèches ou fraîches, 500 grammes",3.27
+2023-07,"Pâtes sèches ou fraîches, 500 grammes",3.54
+2023-08,"Pâtes sèches ou fraîches, 500 grammes",3.49
+2023-09,"Pâtes sèches ou fraîches, 500 grammes",3.37
+2023-10,"Pâtes sèches ou fraîches, 500 grammes",3.41
+2023-11,"Pâtes sèches ou fraîches, 500 grammes",3.31
+2023-12,"Pâtes sèches ou fraîches, 500 grammes",3.49
+2024-01,"Pâtes sèches ou fraîches, 500 grammes",3.17
+2024-02,"Pâtes sèches ou fraîches, 500 grammes",2.96
+2024-03,"Pâtes sèches ou fraîches, 500 grammes",3.07
+2024-04,"Pâtes sèches ou fraîches, 500 grammes",3.05
+2024-05,"Pâtes sèches ou fraîches, 500 grammes",3.35
+2024-06,"Pâtes sèches ou fraîches, 500 grammes",3.07
+2024-07,"Pâtes sèches ou fraîches, 500 grammes",3.18
+2024-08,"Pâtes sèches ou fraîches, 500 grammes",3.21
+2024-09,"Pâtes sèches ou fraîches, 500 grammes",3.02
+2023-01,"Riz complet, 900 grammes",5.62
+2023-02,"Riz complet, 900 grammes",5.85
+2023-03,"Riz complet, 900 grammes",5.85
+2023-04,"Riz complet, 900 grammes",5.75
+2023-05,"Riz complet, 900 grammes",5.84
+2023-06,"Riz complet, 900 grammes",5.89
+2023-07,"Riz complet, 900 grammes",5.91
+2023-08,"Riz complet, 900 grammes",6.03
+2023-09,"Riz complet, 900 grammes",5.99
+2023-10,"Riz complet, 900 grammes",5.76
+2023-11,"Riz complet, 900 grammes",5.8
+2023-12,"Riz complet, 900 grammes",5.77
+2024-01,"Riz complet, 900 grammes",5.61
+2024-02,"Riz complet, 900 grammes",5.45
+2024-03,"Riz complet, 900 grammes",5.52
+2024-04,"Riz complet, 900 grammes",5.35
+2024-05,"Riz complet, 900 grammes",5.72
+2024-06,"Riz complet, 900 grammes",5.75
+2024-07,"Riz complet, 900 grammes",5.64
+2024-08,"Riz complet, 900 grammes",5.76
+2024-09,"Riz complet, 900 grammes",5.67
+2023-01,"Riz blanc, 2 kilogrammes",9.23
+2023-02,"Riz blanc, 2 kilogrammes",9.16
+2023-03,"Riz blanc, 2 kilogrammes",9.24
+2023-04,"Riz blanc, 2 kilogrammes",8.74
+2023-05,"Riz blanc, 2 kilogrammes",9.08
+2023-06,"Riz blanc, 2 kilogrammes",9.0
+2023-07,"Riz blanc, 2 kilogrammes",9.14
+2023-08,"Riz blanc, 2 kilogrammes",9.19
+2023-09,"Riz blanc, 2 kilogrammes",9.0
+2023-10,"Riz blanc, 2 kilogrammes",9.05
+2023-11,"Riz blanc, 2 kilogrammes",9.25
+2023-12,"Riz blanc, 2 kilogrammes",9.11
+2024-01,"Riz blanc, 2 kilogrammes",9.26
+2024-02,"Riz blanc, 2 kilogrammes",8.99
+2024-03,"Riz blanc, 2 kilogrammes",8.96
+2024-04,"Riz blanc, 2 kilogrammes",8.86
+2024-05,"Riz blanc, 2 kilogrammes",6.88
+2024-06,"Riz blanc, 2 kilogrammes",4.79
+2024-07,"Riz blanc, 2 kilogrammes",7.25
+2024-08,"Riz blanc, 2 kilogrammes",8.46
+2024-09,"Riz blanc, 2 kilogrammes",8.62
+2023-01,"Céréales, 400 grammes",3.94
+2023-02,"Céréales, 400 grammes",4.06
+2023-03,"Céréales, 400 grammes",4.08
+2023-04,"Céréales, 400 grammes",4.16
+2023-05,"Céréales, 400 grammes",4.23
+2023-06,"Céréales, 400 grammes",4.17
+2023-07,"Céréales, 400 grammes",4.22
+2023-08,"Céréales, 400 grammes",4.17
+2023-09,"Céréales, 400 grammes",4.06
+2023-10,"Céréales, 400 grammes",4.16
+2023-11,"Céréales, 400 grammes",4.19
+2023-12,"Céréales, 400 grammes",4.16
+2024-01,"Céréales, 400 grammes",4.16
+2024-02,"Céréales, 400 grammes",4.21
+2024-03,"Céréales, 400 grammes",4.2
+2024-04,"Céréales, 400 grammes",4.15
+2024-05,"Céréales, 400 grammes",4.12
+2024-06,"Céréales, 400 grammes",4.1
+2024-07,"Céréales, 400 grammes",4.28
+2024-08,"Céréales, 400 grammes",4.15
+2024-09,"Céréales, 400 grammes",4.07
+2023-01,"Farine de blé, 2,5 kilogrammes",5.66
+2023-02,"Farine de blé, 2,5 kilogrammes",5.68
+2023-03,"Farine de blé, 2,5 kilogrammes",5.65
+2023-04,"Farine de blé, 2,5 kilogrammes",5.66
+2023-05,"Farine de blé, 2,5 kilogrammes",5.77
+2023-06,"Farine de blé, 2,5 kilogrammes",5.72
+2023-07,"Farine de blé, 2,5 kilogrammes",5.81
+2023-08,"Farine de blé, 2,5 kilogrammes",5.63
+2023-09,"Farine de blé, 2,5 kilogrammes",5.59
+2023-10,"Farine de blé, 2,5 kilogrammes",5.65
+2023-11,"Farine de blé, 2,5 kilogrammes",5.52
+2023-12,"Farine de blé, 2,5 kilogrammes",5.64
+2024-01,"Farine de blé, 2,5 kilogrammes",5.57
+2024-02,"Farine de blé, 2,5 kilogrammes",4.98
+2024-03,"Farine de blé, 2,5 kilogrammes",4.12
+2024-04,"Farine de blé, 2,5 kilogrammes",5.09
+2024-05,"Farine de blé, 2,5 kilogrammes",5.2
+2024-06,"Farine de blé, 2,5 kilogrammes",5.13
+2024-07,"Farine de blé, 2,5 kilogrammes",5.26
+2024-08,"Farine de blé, 2,5 kilogrammes",5.14
+2024-09,"Farine de blé, 2,5 kilogrammes",5.1
+2023-01,"Sucre blanc, 2 kilogrammes",2.85
+2023-02,"Sucre blanc, 2 kilogrammes",2.99
+2023-03,"Sucre blanc, 2 kilogrammes",2.45
+2023-04,"Sucre blanc, 2 kilogrammes",2.51
+2023-05,"Sucre blanc, 2 kilogrammes",2.89
+2023-06,"Sucre blanc, 2 kilogrammes",2.73
+2023-07,"Sucre blanc, 2 kilogrammes",2.82
+2023-08,"Sucre blanc, 2 kilogrammes",2.87
+2023-09,"Sucre blanc, 2 kilogrammes",2.26
+2023-10,"Sucre blanc, 2 kilogrammes",2.65
+2023-11,"Sucre blanc, 2 kilogrammes",2.68
+2023-12,"Sucre blanc, 2 kilogrammes",3.01
+2024-01,"Sucre blanc, 2 kilogrammes",3.14
+2024-02,"Sucre blanc, 2 kilogrammes",3.05
+2024-03,"Sucre blanc, 2 kilogrammes",2.6
+2024-04,"Sucre blanc, 2 kilogrammes",3.19
+2024-05,"Sucre blanc, 2 kilogrammes",2.88
+2024-06,"Sucre blanc, 2 kilogrammes",3.14
+2024-07,"Sucre blanc, 2 kilogrammes",2.6
+2024-08,"Sucre blanc, 2 kilogrammes",3.1
+2024-09,"Sucre blanc, 2 kilogrammes",2.71
+2023-01,"Jus de pomme, 2 litres",2.96
+2023-02,"Jus de pomme, 2 litres",3.02
+2023-03,"Jus de pomme, 2 litres",3.43
+2023-04,"Jus de pomme, 2 litres",3.48
+2023-05,"Jus de pomme, 2 litres",3.44
+2023-06,"Jus de pomme, 2 litres",3.56
+2023-07,"Jus de pomme, 2 litres",3.45
+2023-08,"Jus de pomme, 2 litres",3.37
+2023-09,"Jus de pomme, 2 litres",3.44
+2023-10,"Jus de pomme, 2 litres",3.52
+2023-11,"Jus de pomme, 2 litres",3.4
+2023-12,"Jus de pomme, 2 litres",3.8
+2024-01,"Jus de pomme, 2 litres",3.61
+2024-02,"Jus de pomme, 2 litres",3.66
+2024-03,"Jus de pomme, 2 litres",3.69
+2024-04,"Jus de pomme, 2 litres",3.52
+2024-05,"Jus de pomme, 2 litres",3.57
+2024-06,"Jus de pomme, 2 litres",3.74
+2024-07,"Jus de pomme, 2 litres",3.66
+2024-08,"Jus de pomme, 2 litres",3.68
+2024-09,"Jus de pomme, 2 litres",3.47
+2023-01,"Jus d’orange, 2 litres",3.77
+2023-02,"Jus d’orange, 2 litres",3.99
+2023-03,"Jus d’orange, 2 litres",4.3
+2023-04,"Jus d’orange, 2 litres",4.15
+2023-05,"Jus d’orange, 2 litres",4.39
+2023-06,"Jus d’orange, 2 litres",4.48
+2023-07,"Jus d’orange, 2 litres",4.44
+2023-08,"Jus d’orange, 2 litres",4.41
+2023-09,"Jus d’orange, 2 litres",4.52
+2023-10,"Jus d’orange, 2 litres",4.35
+2023-11,"Jus d’orange, 2 litres",4.54
+2023-12,"Jus d’orange, 2 litres",4.76
+2024-01,"Jus d’orange, 2 litres",4.72
+2024-02,"Jus d’orange, 2 litres",5.05
+2024-03,"Jus d’orange, 2 litres",5.41
+2024-04,"Jus d’orange, 2 litres",5.34
+2024-05,"Jus d’orange, 2 litres",5.37
+2024-06,"Jus d’orange, 2 litres",5.45
+2024-07,"Jus d’orange, 2 litres",5.38
+2024-08,"Jus d’orange, 2 litres",5.46
+2024-09,"Jus d’orange, 2 litres",5.28
+2023-01,"Café torréfié ou moulu, 340 grammes",6.19
+2023-02,"Café torréfié ou moulu, 340 grammes",6.49
+2023-03,"Café torréfié ou moulu, 340 grammes",6.16
+2023-04,"Café torréfié ou moulu, 340 grammes",6.23
+2023-05,"Café torréfié ou moulu, 340 grammes",6.6
+2023-06,"Café torréfié ou moulu, 340 grammes",6.82
+2023-07,"Café torréfié ou moulu, 340 grammes",6.69
+2023-08,"Café torréfié ou moulu, 340 grammes",6.67
+2023-09,"Café torréfié ou moulu, 340 grammes",6.42
+2023-10,"Café torréfié ou moulu, 340 grammes",6.32
+2023-11,"Café torréfié ou moulu, 340 grammes",6.44
+2023-12,"Café torréfié ou moulu, 340 grammes",6.52
+2024-01,"Café torréfié ou moulu, 340 grammes",6.04
+2024-02,"Café torréfié ou moulu, 340 grammes",6.3
+2024-03,"Café torréfié ou moulu, 340 grammes",6.37
+2024-04,"Café torréfié ou moulu, 340 grammes",6.14
+2024-05,"Café torréfié ou moulu, 340 grammes",6.56
+2024-06,"Café torréfié ou moulu, 340 grammes",6.63
+2024-07,"Café torréfié ou moulu, 340 grammes",6.83
+2024-08,"Café torréfié ou moulu, 340 grammes",7.11
+2024-09,"Café torréfié ou moulu, 340 grammes",6.75
+2023-01,Thé (20 sachets),4.19
+2023-02,Thé (20 sachets),4.23
+2023-03,Thé (20 sachets),4.28
+2023-04,Thé (20 sachets),4.33
+2023-05,Thé (20 sachets),4.23
+2023-06,Thé (20 sachets),4.22
+2023-07,Thé (20 sachets),4.51
+2023-08,Thé (20 sachets),4.45
+2023-09,Thé (20 sachets),4.36
+2023-10,Thé (20 sachets),4.41
+2023-11,Thé (20 sachets),4.27
+2023-12,Thé (20 sachets),4.17
+2024-01,Thé (20 sachets),4.33
+2024-02,Thé (20 sachets),4.24
+2024-03,Thé (20 sachets),4.29
+2024-04,Thé (20 sachets),4.24
+2024-05,Thé (20 sachets),4.25
+2024-06,Thé (20 sachets),4.38
+2024-07,Thé (20 sachets),4.5
+2024-08,Thé (20 sachets),4.4
+2024-09,Thé (20 sachets),3.87
+2023-01,"Ketchup, 1 litre",4.03
+2023-02,"Ketchup, 1 litre",4.23
+2023-03,"Ketchup, 1 litre",4.44
+2023-04,"Ketchup, 1 litre",4.36
+2023-05,"Ketchup, 1 litre",4.48
+2023-06,"Ketchup, 1 litre",4.57
+2023-07,"Ketchup, 1 litre",4.33
+2023-08,"Ketchup, 1 litre",4.43
+2023-09,"Ketchup, 1 litre",4.52
+2023-10,"Ketchup, 1 litre",4.81
+2023-11,"Ketchup, 1 litre",4.83
+2023-12,"Ketchup, 1 litre",4.7
+2024-01,"Ketchup, 1 litre",4.67
+2024-02,"Ketchup, 1 litre",4.66
+2024-03,"Ketchup, 1 litre",4.78
+2024-04,"Ketchup, 1 litre",4.58
+2024-05,"Ketchup, 1 litre",4.7
+2024-06,"Ketchup, 1 litre",4.29
+2024-07,"Ketchup, 1 litre",4.63
+2024-08,"Ketchup, 1 litre",4.68
+2024-09,"Ketchup, 1 litre",4.75
+2023-01,"Huile végétale, 3 litres",10.74
+2023-02,"Huile végétale, 3 litres",10.78
+2023-03,"Huile végétale, 3 litres",10.81
+2023-04,"Huile végétale, 3 litres",10.83
+2023-05,"Huile végétale, 3 litres",10.97
+2023-06,"Huile végétale, 3 litres",12.44
+2023-07,"Huile végétale, 3 litres",10.69
+2023-08,"Huile végétale, 3 litres",10.76
+2023-09,"Huile végétale, 3 litres",9.63
+2023-10,"Huile végétale, 3 litres",10.38
+2023-11,"Huile végétale, 3 litres",9.78
+2023-12,"Huile végétale, 3 litres",10.26
+2024-01,"Huile végétale, 3 litres",10.11
+2024-02,"Huile végétale, 3 litres",10.73
+2024-03,"Huile végétale, 3 litres",9.65
+2024-04,"Huile végétale, 3 litres",9.97
+2024-05,"Huile végétale, 3 litres",9.23
+2024-06,"Huile végétale, 3 litres",9.25
+2024-07,"Huile végétale, 3 litres",9.32
+2024-08,"Huile végétale, 3 litres",9.14
+2024-09,"Huile végétale, 3 litres",9.16
+2023-01,"Huile de canola, 3 litres",12.15
+2023-02,"Huile de canola, 3 litres",12.97
+2023-03,"Huile de canola, 3 litres",13.36
+2023-04,"Huile de canola, 3 litres",14.07
+2023-05,"Huile de canola, 3 litres",14.19
+2023-06,"Huile de canola, 3 litres",13.08
+2023-07,"Huile de canola, 3 litres",13.35
+2023-08,"Huile de canola, 3 litres",11.96
+2023-09,"Huile de canola, 3 litres",13.23
+2023-10,"Huile de canola, 3 litres",13.32
+2023-11,"Huile de canola, 3 litres",12.89
+2023-12,"Huile de canola, 3 litres",13.3
+2024-01,"Huile de canola, 3 litres",11.34
+2024-02,"Huile de canola, 3 litres",11.33
+2024-03,"Huile de canola, 3 litres",11.29
+2024-04,"Huile de canola, 3 litres",11.12
+2024-05,"Huile de canola, 3 litres",12.16
+2024-06,"Huile de canola, 3 litres",9.09
+2024-07,"Huile de canola, 3 litres",9.12
+2024-08,"Huile de canola, 3 litres",10.92
+2024-09,"Huile de canola, 3 litres",9.36
+2023-01,"Huile d'olive, 1 litre",9.99
+2023-02,"Huile d'olive, 1 litre",9.79
+2023-03,"Huile d'olive, 1 litre",9.79
+2023-04,"Huile d'olive, 1 litre",11.07
+2023-05,"Huile d'olive, 1 litre",11.36
+2023-06,"Huile d'olive, 1 litre",12.16
+2023-07,"Huile d'olive, 1 litre",11.45
+2023-08,"Huile d'olive, 1 litre",12.31
+2023-09,"Huile d'olive, 1 litre",11.0
+2023-10,"Huile d'olive, 1 litre",11.8
+2023-11,"Huile d'olive, 1 litre",13.13
+2023-12,"Huile d'olive, 1 litre",13.45
+2024-01,"Huile d'olive, 1 litre",13.66
+2024-02,"Huile d'olive, 1 litre",14.78
+2024-03,"Huile d'olive, 1 litre",15.54
+2024-04,"Huile d'olive, 1 litre",15.7
+2024-05,"Huile d'olive, 1 litre",15.06
+2024-06,"Huile d'olive, 1 litre",16.73
+2024-07,"Huile d'olive, 1 litre",16.2
+2024-08,"Huile d'olive, 1 litre",15.81
+2024-09,"Huile d'olive, 1 litre",15.28
+2023-01,"Aliments pour bébés, 128 millilitres",1.49
+2023-02,"Aliments pour bébés, 128 millilitres",1.57
+2023-03,"Aliments pour bébés, 128 millilitres",1.62
+2023-04,"Aliments pour bébés, 128 millilitres",1.61
+2023-05,"Aliments pour bébés, 128 millilitres",1.63
+2023-06,"Aliments pour bébés, 128 millilitres",1.68
+2023-07,"Aliments pour bébés, 128 millilitres",1.7
+2023-08,"Aliments pour bébés, 128 millilitres",1.69
+2023-09,"Aliments pour bébés, 128 millilitres",1.66
+2023-10,"Aliments pour bébés, 128 millilitres",1.6
+2023-11,"Aliments pour bébés, 128 millilitres",1.64
+2023-12,"Aliments pour bébés, 128 millilitres",1.59
+2024-01,"Aliments pour bébés, 128 millilitres",1.59
+2024-02,"Aliments pour bébés, 128 millilitres",1.62
+2024-03,"Aliments pour bébés, 128 millilitres",1.58
+2024-04,"Aliments pour bébés, 128 millilitres",1.6
+2024-05,"Aliments pour bébés, 128 millilitres",1.63
+2024-06,"Aliments pour bébés, 128 millilitres",1.67
+2024-07,"Aliments pour bébés, 128 millilitres",1.63
+2024-08,"Aliments pour bébés, 128 millilitres",1.61
+2024-09,"Aliments pour bébés, 128 millilitres",1.63
+2023-01,"Préparation pour nourrissons, 900 grammes",37.12
+2023-02,"Préparation pour nourrissons, 900 grammes",33.23
+2023-03,"Préparation pour nourrissons, 900 grammes",37.74
+2023-04,"Préparation pour nourrissons, 900 grammes",37.22
+2023-05,"Préparation pour nourrissons, 900 grammes",37.9
+2023-06,"Préparation pour nourrissons, 900 grammes",41.05
+2023-07,"Préparation pour nourrissons, 900 grammes",37.94
+2023-08,"Préparation pour nourrissons, 900 grammes",39.81
+2023-09,"Préparation pour nourrissons, 900 grammes",39.4
+2023-10,"Préparation pour nourrissons, 900 grammes",40.92
+2023-11,"Préparation pour nourrissons, 900 grammes",41.76
+2023-12,"Préparation pour nourrissons, 900 grammes",41.92
+2024-01,"Préparation pour nourrissons, 900 grammes",40.1
+2024-02,"Préparation pour nourrissons, 900 grammes",42.99
+2024-03,"Préparation pour nourrissons, 900 grammes",43.42
+2024-04,"Préparation pour nourrissons, 900 grammes",44.71
+2024-05,"Préparation pour nourrissons, 900 grammes",44.83
+2024-06,"Préparation pour nourrissons, 900 grammes",45.65
+2024-07,"Préparation pour nourrissons, 900 grammes",46.3
+2024-08,"Préparation pour nourrissons, 900 grammes",47.52
+2024-09,"Préparation pour nourrissons, 900 grammes",46.94
+2023-01,"Beurre d’arachide, 1 kilogramme",5.54
+2023-02,"Beurre d’arachide, 1 kilogramme",5.74
+2023-03,"Beurre d’arachide, 1 kilogramme",6.27
+2023-04,"Beurre d’arachide, 1 kilogramme",6.08
+2023-05,"Beurre d’arachide, 1 kilogramme",6.17
+2023-06,"Beurre d’arachide, 1 kilogramme",6.48
+2023-07,"Beurre d’arachide, 1 kilogramme",6.18
+2023-08,"Beurre d’arachide, 1 kilogramme",6.0
+2023-09,"Beurre d’arachide, 1 kilogramme",6.17
+2023-10,"Beurre d’arachide, 1 kilogramme",6.23
+2023-11,"Beurre d’arachide, 1 kilogramme",6.25
+2023-12,"Beurre d’arachide, 1 kilogramme",6.21
+2024-01,"Beurre d’arachide, 1 kilogramme",5.69
+2024-02,"Beurre d’arachide, 1 kilogramme",5.9
+2024-03,"Beurre d’arachide, 1 kilogramme",5.92
+2024-04,"Beurre d’arachide, 1 kilogramme",5.94
+2024-05,"Beurre d’arachide, 1 kilogramme",6.27
+2024-06,"Beurre d’arachide, 1 kilogramme",6.16
+2024-07,"Beurre d’arachide, 1 kilogramme",6.15
+2024-08,"Beurre d’arachide, 1 kilogramme",6.01
+2024-09,"Beurre d’arachide, 1 kilogramme",6.0
+2023-01,"Mayonnaise, 890 millilitres",6.14
+2023-02,"Mayonnaise, 890 millilitres",6.52
+2023-03,"Mayonnaise, 890 millilitres",6.56
+2023-04,"Mayonnaise, 890 millilitres",6.63
+2023-05,"Mayonnaise, 890 millilitres",6.47
+2023-06,"Mayonnaise, 890 millilitres",6.39
+2023-07,"Mayonnaise, 890 millilitres",6.53
+2023-08,"Mayonnaise, 890 millilitres",6.49
+2023-09,"Mayonnaise, 890 millilitres",6.49
+2023-10,"Mayonnaise, 890 millilitres",6.58
+2023-11,"Mayonnaise, 890 millilitres",6.68
+2023-12,"Mayonnaise, 890 millilitres",6.66
+2024-01,"Mayonnaise, 890 millilitres",6.28
+2024-02,"Mayonnaise, 890 millilitres",6.22
+2024-03,"Mayonnaise, 890 millilitres",6.33
+2024-04,"Mayonnaise, 890 millilitres",6.25
+2024-05,"Mayonnaise, 890 millilitres",6.36
+2024-06,"Mayonnaise, 890 millilitres",6.29
+2024-07,"Mayonnaise, 890 millilitres",6.32
+2024-08,"Mayonnaise, 890 millilitres",6.34
+2024-09,"Mayonnaise, 890 millilitres",6.48
+2023-01,"Fèves au lard en conserve, 398 millilitres",1.7
+2023-02,"Fèves au lard en conserve, 398 millilitres",1.75
+2023-03,"Fèves au lard en conserve, 398 millilitres",1.76
+2023-04,"Fèves au lard en conserve, 398 millilitres",1.8
+2023-05,"Fèves au lard en conserve, 398 millilitres",1.75
+2023-06,"Fèves au lard en conserve, 398 millilitres",1.61
+2023-07,"Fèves au lard en conserve, 398 millilitres",1.61
+2023-08,"Fèves au lard en conserve, 398 millilitres",1.75
+2023-09,"Fèves au lard en conserve, 398 millilitres",1.78
+2023-10,"Fèves au lard en conserve, 398 millilitres",1.93
+2023-11,"Fèves au lard en conserve, 398 millilitres",1.78
+2023-12,"Fèves au lard en conserve, 398 millilitres",1.71
+2024-01,"Fèves au lard en conserve, 398 millilitres",1.79
+2024-02,"Fèves au lard en conserve, 398 millilitres",1.43
+2024-03,"Fèves au lard en conserve, 398 millilitres",1.89
+2024-04,"Fèves au lard en conserve, 398 millilitres",1.91
+2024-05,"Fèves au lard en conserve, 398 millilitres",1.56
+2024-06,"Fèves au lard en conserve, 398 millilitres",1.95
+2024-07,"Fèves au lard en conserve, 398 millilitres",1.7
+2024-08,"Fèves au lard en conserve, 398 millilitres",1.93
+2024-09,"Fèves au lard en conserve, 398 millilitres",1.71
+2023-01,"Tomates en conserve, 796 millilitres",1.79
+2023-02,"Tomates en conserve, 796 millilitres",1.91
+2023-03,"Tomates en conserve, 796 millilitres",1.93
+2023-04,"Tomates en conserve, 796 millilitres",2.01
+2023-05,"Tomates en conserve, 796 millilitres",2.13
+2023-06,"Tomates en conserve, 796 millilitres",2.08
+2023-07,"Tomates en conserve, 796 millilitres",2.01
+2023-08,"Tomates en conserve, 796 millilitres",1.89
+2023-09,"Tomates en conserve, 796 millilitres",1.65
+2023-10,"Tomates en conserve, 796 millilitres",2.05
+2023-11,"Tomates en conserve, 796 millilitres",2.06
+2023-12,"Tomates en conserve, 796 millilitres",2.1
+2024-01,"Tomates en conserve, 796 millilitres",2.04
+2024-02,"Tomates en conserve, 796 millilitres",1.98
+2024-03,"Tomates en conserve, 796 millilitres",2.07
+2024-04,"Tomates en conserve, 796 millilitres",2.06
+2024-05,"Tomates en conserve, 796 millilitres",2.03
+2024-06,"Tomates en conserve, 796 millilitres",2.17
+2024-07,"Tomates en conserve, 796 millilitres",2.05
+2024-08,"Tomates en conserve, 796 millilitres",1.88
+2024-09,"Tomates en conserve, 796 millilitres",1.93
+2023-01,"Soupe en conserve, 284 millilitres",1.52
+2023-02,"Soupe en conserve, 284 millilitres",1.75
+2023-03,"Soupe en conserve, 284 millilitres",1.64
+2023-04,"Soupe en conserve, 284 millilitres",1.81
+2023-05,"Soupe en conserve, 284 millilitres",1.37
+2023-06,"Soupe en conserve, 284 millilitres",1.36
+2023-07,"Soupe en conserve, 284 millilitres",1.67
+2023-08,"Soupe en conserve, 284 millilitres",1.27
+2023-09,"Soupe en conserve, 284 millilitres",1.21
+2023-10,"Soupe en conserve, 284 millilitres",1.56
+2023-11,"Soupe en conserve, 284 millilitres",1.54
+2023-12,"Soupe en conserve, 284 millilitres",1.82
+2024-01,"Soupe en conserve, 284 millilitres",1.47
+2024-02,"Soupe en conserve, 284 millilitres",1.3
+2024-03,"Soupe en conserve, 284 millilitres",1.4
+2024-04,"Soupe en conserve, 284 millilitres",1.39
+2024-05,"Soupe en conserve, 284 millilitres",1.54
+2024-06,"Soupe en conserve, 284 millilitres",1.69
+2024-07,"Soupe en conserve, 284 millilitres",1.38
+2024-08,"Soupe en conserve, 284 millilitres",1.31
+2024-09,"Soupe en conserve, 284 millilitres",1.28
+2023-01,"Haricots et lentilles en conserve, 540 millilitres",1.54
+2023-02,"Haricots et lentilles en conserve, 540 millilitres",1.55
+2023-03,"Haricots et lentilles en conserve, 540 millilitres",1.59
+2023-04,"Haricots et lentilles en conserve, 540 millilitres",1.67
+2023-05,"Haricots et lentilles en conserve, 540 millilitres",1.6
+2023-06,"Haricots et lentilles en conserve, 540 millilitres",1.66
+2023-07,"Haricots et lentilles en conserve, 540 millilitres",1.67
+2023-08,"Haricots et lentilles en conserve, 540 millilitres",1.58
+2023-09,"Haricots et lentilles en conserve, 540 millilitres",1.42
+2023-10,"Haricots et lentilles en conserve, 540 millilitres",1.62
+2023-11,"Haricots et lentilles en conserve, 540 millilitres",1.7
+2023-12,"Haricots et lentilles en conserve, 540 millilitres",1.76
+2024-01,"Haricots et lentilles en conserve, 540 millilitres",1.64
+2024-02,"Haricots et lentilles en conserve, 540 millilitres",1.5
+2024-03,"Haricots et lentilles en conserve, 540 millilitres",1.62
+2024-04,"Haricots et lentilles en conserve, 540 millilitres",1.63
+2024-05,"Haricots et lentilles en conserve, 540 millilitres",1.63
+2024-06,"Haricots et lentilles en conserve, 540 millilitres",1.66
+2024-07,"Haricots et lentilles en conserve, 540 millilitres",1.66
+2024-08,"Haricots et lentilles en conserve, 540 millilitres",1.63
+2024-09,"Haricots et lentilles en conserve, 540 millilitres",1.49
+2023-01,"Maïs en conserve, 341 millilitres",1.51
+2023-02,"Maïs en conserve, 341 millilitres",1.68
+2023-03,"Maïs en conserve, 341 millilitres",1.52
+2023-04,"Maïs en conserve, 341 millilitres",1.45
+2023-05,"Maïs en conserve, 341 millilitres",1.55
+2023-06,"Maïs en conserve, 341 millilitres",1.67
+2023-07,"Maïs en conserve, 341 millilitres",1.6
+2023-08,"Maïs en conserve, 341 millilitres",1.59
+2023-09,"Maïs en conserve, 341 millilitres",1.34
+2023-10,"Maïs en conserve, 341 millilitres",1.44
+2023-11,"Maïs en conserve, 341 millilitres",1.59
+2023-12,"Maïs en conserve, 341 millilitres",1.48
+2024-01,"Maïs en conserve, 341 millilitres",1.51
+2024-02,"Maïs en conserve, 341 millilitres",1.61
+2024-03,"Maïs en conserve, 341 millilitres",1.52
+2024-04,"Maïs en conserve, 341 millilitres",1.61
+2024-05,"Maïs en conserve, 341 millilitres",1.52
+2024-06,"Maïs en conserve, 341 millilitres",1.61
+2024-07,"Maïs en conserve, 341 millilitres",1.61
+2024-08,"Maïs en conserve, 341 millilitres",1.59
+2024-09,"Maïs en conserve, 341 millilitres",1.47
+2023-01,"Pêche en conserve, 398 millilitres",2.34
+2023-02,"Pêche en conserve, 398 millilitres",2.53
+2023-03,"Pêche en conserve, 398 millilitres",2.78
+2023-04,"Pêche en conserve, 398 millilitres",2.7
+2023-05,"Pêche en conserve, 398 millilitres",2.62
+2023-06,"Pêche en conserve, 398 millilitres",2.63
+2023-07,"Pêche en conserve, 398 millilitres",2.61
+2023-08,"Pêche en conserve, 398 millilitres",2.63
+2023-09,"Pêche en conserve, 398 millilitres",2.58
+2023-10,"Pêche en conserve, 398 millilitres",2.62
+2023-11,"Pêche en conserve, 398 millilitres",2.58
+2023-12,"Pêche en conserve, 398 millilitres",2.51
+2024-01,"Pêche en conserve, 398 millilitres",2.5
+2024-02,"Pêche en conserve, 398 millilitres",2.46
+2024-03,"Pêche en conserve, 398 millilitres",2.33
+2024-04,"Pêche en conserve, 398 millilitres",2.4
+2024-05,"Pêche en conserve, 398 millilitres",2.45
+2024-06,"Pêche en conserve, 398 millilitres",2.41
+2024-07,"Pêche en conserve, 398 millilitres",2.4
+2024-08,"Pêche en conserve, 398 millilitres",2.48
+2024-09,"Pêche en conserve, 398 millilitres",2.52
+2023-01,"Poire en conserve, 398 millilitres",2.49
+2023-02,"Poire en conserve, 398 millilitres",2.58
+2023-03,"Poire en conserve, 398 millilitres",2.51
+2023-04,"Poire en conserve, 398 millilitres",2.57
+2023-05,"Poire en conserve, 398 millilitres",2.69
+2023-06,"Poire en conserve, 398 millilitres",2.74
+2023-07,"Poire en conserve, 398 millilitres",2.67
+2023-08,"Poire en conserve, 398 millilitres",2.68
+2023-09,"Poire en conserve, 398 millilitres",2.71
+2023-10,"Poire en conserve, 398 millilitres",2.64
+2023-11,"Poire en conserve, 398 millilitres",2.51
+2023-12,"Poire en conserve, 398 millilitres",2.6
+2024-01,"Poire en conserve, 398 millilitres",2.7
+2024-02,"Poire en conserve, 398 millilitres",2.68
+2024-03,"Poire en conserve, 398 millilitres",2.42
+2024-04,"Poire en conserve, 398 millilitres",2.64
+2024-05,"Poire en conserve, 398 millilitres",2.72
+2024-06,"Poire en conserve, 398 millilitres",2.8
+2024-07,"Poire en conserve, 398 millilitres",2.71
+2024-08,"Poire en conserve, 398 millilitres",2.77
+2024-09,"Poire en conserve, 398 millilitres",2.78
+2023-01,"Lentilles séchées, 900 grammes",3.83
+2023-02,"Lentilles séchées, 900 grammes",3.83
+2023-03,"Lentilles séchées, 900 grammes",3.7
+2023-04,"Lentilles séchées, 900 grammes",3.84
+2023-05,"Lentilles séchées, 900 grammes",3.79
+2023-06,"Lentilles séchées, 900 grammes",3.74
+2023-07,"Lentilles séchées, 900 grammes",3.81
+2023-08,"Lentilles séchées, 900 grammes",3.68
+2023-09,"Lentilles séchées, 900 grammes",3.81
+2023-10,"Lentilles séchées, 900 grammes",3.82
+2023-11,"Lentilles séchées, 900 grammes",3.91
+2023-12,"Lentilles séchées, 900 grammes",3.95
+2024-01,"Lentilles séchées, 900 grammes",3.78
+2024-02,"Lentilles séchées, 900 grammes",3.77
+2024-03,"Lentilles séchées, 900 grammes",3.69
+2024-04,"Lentilles séchées, 900 grammes",3.67
+2024-05,"Lentilles séchées, 900 grammes",3.68
+2024-06,"Lentilles séchées, 900 grammes",3.61
+2024-07,"Lentilles séchées, 900 grammes",3.74
+2024-08,"Lentilles séchées, 900 grammes",3.72
+2024-09,"Lentilles séchées, 900 grammes",3.73
+2023-01,"Haricots et légumineuses secs, 900 grammes",3.58
+2023-02,"Haricots et légumineuses secs, 900 grammes",3.57
+2023-03,"Haricots et légumineuses secs, 900 grammes",3.57
+2023-04,"Haricots et légumineuses secs, 900 grammes",3.58
+2023-05,"Haricots et légumineuses secs, 900 grammes",3.58
+2023-06,"Haricots et légumineuses secs, 900 grammes",3.56
+2023-07,"Haricots et légumineuses secs, 900 grammes",3.57
+2023-08,"Haricots et légumineuses secs, 900 grammes",3.54
+2023-09,"Haricots et légumineuses secs, 900 grammes",3.57
+2023-10,"Haricots et légumineuses secs, 900 grammes",3.62
+2023-11,"Haricots et légumineuses secs, 900 grammes",3.63
+2023-12,"Haricots et légumineuses secs, 900 grammes",3.67
+2024-01,"Haricots et légumineuses secs, 900 grammes",3.52
+2024-02,"Haricots et légumineuses secs, 900 grammes",3.4
+2024-03,"Haricots et légumineuses secs, 900 grammes",3.33
+2024-04,"Haricots et légumineuses secs, 900 grammes",3.32
+2024-05,"Haricots et légumineuses secs, 900 grammes",3.39
+2024-06,"Haricots et légumineuses secs, 900 grammes",3.37
+2024-07,"Haricots et légumineuses secs, 900 grammes",3.39
+2024-08,"Haricots et légumineuses secs, 900 grammes",3.43
+2024-09,"Haricots et légumineuses secs, 900 grammes",3.42
+2023-01,"Tofu, 350 grammes",2.58
+2023-02,"Tofu, 350 grammes",2.79
+2023-03,"Tofu, 350 grammes",2.79
+2023-04,"Tofu, 350 grammes",2.73
+2023-05,"Tofu, 350 grammes",2.81
+2023-06,"Tofu, 350 grammes",2.72
+2023-07,"Tofu, 350 grammes",2.72
+2023-08,"Tofu, 350 grammes",2.69
+2023-09,"Tofu, 350 grammes",2.63
+2023-10,"Tofu, 350 grammes",2.7
+2023-11,"Tofu, 350 grammes",2.63
+2023-12,"Tofu, 350 grammes",2.61
+2024-01,"Tofu, 350 grammes",2.55
+2024-02,"Tofu, 350 grammes",2.6
+2024-03,"Tofu, 350 grammes",2.69
+2024-04,"Tofu, 350 grammes",2.68
+2024-05,"Tofu, 350 grammes",2.62
+2024-06,"Tofu, 350 grammes",2.69
+2024-07,"Tofu, 350 grammes",2.64
+2024-08,"Tofu, 350 grammes",2.62
+2024-09,"Tofu, 350 grammes",2.54
+2023-01,"Houmous, 227 grammes",3.71
+2023-02,"Houmous, 227 grammes",3.87
+2023-03,"Houmous, 227 grammes",3.91
+2023-04,"Houmous, 227 grammes",3.88
+2023-05,"Houmous, 227 grammes",3.74
+2023-06,"Houmous, 227 grammes",3.79
+2023-07,"Houmous, 227 grammes",3.8
+2023-08,"Houmous, 227 grammes",3.83
+2023-09,"Houmous, 227 grammes",3.91
+2023-10,"Houmous, 227 grammes",3.78
+2023-11,"Houmous, 227 grammes",3.71
+2023-12,"Houmous, 227 grammes",3.54
+2024-01,"Houmous, 227 grammes",3.77
+2024-02,"Houmous, 227 grammes",3.67
+2024-03,"Houmous, 227 grammes",3.75
+2024-04,"Houmous, 227 grammes",3.88
+2024-05,"Houmous, 227 grammes",3.81
+2024-06,"Houmous, 227 grammes",3.92
+2024-07,"Houmous, 227 grammes",3.9
+2024-08,"Houmous, 227 grammes",3.86
+2024-09,"Houmous, 227 grammes",3.88
+2023-01,"Salsa, 418 millilitres",4.43
+2023-02,"Salsa, 418 millilitres",4.44
+2023-03,"Salsa, 418 millilitres",4.58
+2023-04,"Salsa, 418 millilitres",4.76
+2023-05,"Salsa, 418 millilitres",4.83
+2023-06,"Salsa, 418 millilitres",4.78
+2023-07,"Salsa, 418 millilitres",4.9
+2023-08,"Salsa, 418 millilitres",4.94
+2023-09,"Salsa, 418 millilitres",4.83
+2023-10,"Salsa, 418 millilitres",4.85
+2023-11,"Salsa, 418 millilitres",4.78
+2023-12,"Salsa, 418 millilitres",4.83
+2024-01,"Salsa, 418 millilitres",4.73
+2024-02,"Salsa, 418 millilitres",4.46
+2024-03,"Salsa, 418 millilitres",4.75
+2024-04,"Salsa, 418 millilitres",4.75
+2024-05,"Salsa, 418 millilitres",4.26
+2024-06,"Salsa, 418 millilitres",4.49
+2024-07,"Salsa, 418 millilitres",4.7
+2024-08,"Salsa, 418 millilitres",4.71
+2024-09,"Salsa, 418 millilitres",4.68
+2023-01,"Sauce pour pâtes, 650 millilitres",3.03
+2023-02,"Sauce pour pâtes, 650 millilitres",2.83
+2023-03,"Sauce pour pâtes, 650 millilitres",3.18
+2023-04,"Sauce pour pâtes, 650 millilitres",3.09
+2023-05,"Sauce pour pâtes, 650 millilitres",3.2
+2023-06,"Sauce pour pâtes, 650 millilitres",2.97
+2023-07,"Sauce pour pâtes, 650 millilitres",3.17
+2023-08,"Sauce pour pâtes, 650 millilitres",3.04
+2023-09,"Sauce pour pâtes, 650 millilitres",2.94
+2023-10,"Sauce pour pâtes, 650 millilitres",3.11
+2023-11,"Sauce pour pâtes, 650 millilitres",3.14
+2023-12,"Sauce pour pâtes, 650 millilitres",3.31
+2024-01,"Sauce pour pâtes, 650 millilitres",3.12
+2024-02,"Sauce pour pâtes, 650 millilitres",3.06
+2024-03,"Sauce pour pâtes, 650 millilitres",2.82
+2024-04,"Sauce pour pâtes, 650 millilitres",3.06
+2024-05,"Sauce pour pâtes, 650 millilitres",3.01
+2024-06,"Sauce pour pâtes, 650 millilitres",3.0
+2024-07,"Sauce pour pâtes, 650 millilitres",3.0
+2024-08,"Sauce pour pâtes, 650 millilitres",3.06
+2024-09,"Sauce pour pâtes, 650 millilitres",3.03
+2023-01,"Vinaigrette, 475 millilitres",3.36
+2023-02,"Vinaigrette, 475 millilitres",3.55
+2023-03,"Vinaigrette, 475 millilitres",3.48
+2023-04,"Vinaigrette, 475 millilitres",3.4
+2023-05,"Vinaigrette, 475 millilitres",3.4
+2023-06,"Vinaigrette, 475 millilitres",3.33
+2023-07,"Vinaigrette, 475 millilitres",3.32
+2023-08,"Vinaigrette, 475 millilitres",3.39
+2023-09,"Vinaigrette, 475 millilitres",3.46
+2023-10,"Vinaigrette, 475 millilitres",3.36
+2023-11,"Vinaigrette, 475 millilitres",3.37
+2023-12,"Vinaigrette, 475 millilitres",3.32
+2024-01,"Vinaigrette, 475 millilitres",3.43
+2024-02,"Vinaigrette, 475 millilitres",3.45
+2024-03,"Vinaigrette, 475 millilitres",3.2
+2024-04,"Vinaigrette, 475 millilitres",3.32
+2024-05,"Vinaigrette, 475 millilitres",3.34
+2024-06,"Vinaigrette, 475 millilitres",3.25
+2024-07,"Vinaigrette, 475 millilitres",3.34
+2024-08,"Vinaigrette, 475 millilitres",3.25
+2024-09,"Vinaigrette, 475 millilitres",3.3
+2023-01,"Amandes, 200 grammes",4.97
+2023-02,"Amandes, 200 grammes",4.93
+2023-03,"Amandes, 200 grammes",4.22
+2023-04,"Amandes, 200 grammes",4.79
+2023-05,"Amandes, 200 grammes",4.7
+2023-06,"Amandes, 200 grammes",4.56
+2023-07,"Amandes, 200 grammes",4.8
+2023-08,"Amandes, 200 grammes",4.8
+2023-09,"Amandes, 200 grammes",4.15
+2023-10,"Amandes, 200 grammes",4.42
+2023-11,"Amandes, 200 grammes",4.34
+2023-12,"Amandes, 200 grammes",4.34
+2024-01,"Amandes, 200 grammes",4.16
+2024-02,"Amandes, 200 grammes",4.06
+2024-03,"Amandes, 200 grammes",4.08
+2024-04,"Amandes, 200 grammes",4.36
+2024-05,"Amandes, 200 grammes",4.56
+2024-06,"Amandes, 200 grammes",4.27
+2024-07,"Amandes, 200 grammes",4.62
+2024-08,"Amandes, 200 grammes",4.42
+2024-09,"Amandes, 200 grammes",4.51
+2023-01,"Arachides, 450 grammes",3.4
+2023-02,"Arachides, 450 grammes",3.51
+2023-03,"Arachides, 450 grammes",3.62
+2023-04,"Arachides, 450 grammes",3.65
+2023-05,"Arachides, 450 grammes",3.6
+2023-06,"Arachides, 450 grammes",3.47
+2023-07,"Arachides, 450 grammes",3.59
+2023-08,"Arachides, 450 grammes",3.59
+2023-09,"Arachides, 450 grammes",3.84
+2023-10,"Arachides, 450 grammes",3.88
+2023-11,"Arachides, 450 grammes",3.66
+2023-12,"Arachides, 450 grammes",3.7
+2024-01,"Arachides, 450 grammes",3.66
+2024-02,"Arachides, 450 grammes",3.71
+2024-03,"Arachides, 450 grammes",3.86
+2024-04,"Arachides, 450 grammes",3.72
+2024-05,"Arachides, 450 grammes",3.82
+2024-06,"Arachides, 450 grammes",3.83
+2024-07,"Arachides, 450 grammes",3.78
+2024-08,"Arachides, 450 grammes",3.82
+2024-09,"Arachides, 450 grammes",3.84
+2023-01,"Graines de tournesol, 400 grammes",4.26
+2023-02,"Graines de tournesol, 400 grammes",4.32
+2023-03,"Graines de tournesol, 400 grammes",4.39
+2023-04,"Graines de tournesol, 400 grammes",4.5
+2023-05,"Graines de tournesol, 400 grammes",4.51
+2023-06,"Graines de tournesol, 400 grammes",4.38
+2023-07,"Graines de tournesol, 400 grammes",4.49
+2023-08,"Graines de tournesol, 400 grammes",4.49
+2023-09,"Graines de tournesol, 400 grammes",4.2
+2023-10,"Graines de tournesol, 400 grammes",4.34
+2023-11,"Graines de tournesol, 400 grammes",4.41
+2023-12,"Graines de tournesol, 400 grammes",4.44
+2024-01,"Graines de tournesol, 400 grammes",4.56
+2024-02,"Graines de tournesol, 400 grammes",4.58
+2024-03,"Graines de tournesol, 400 grammes",4.67
+2024-04,"Graines de tournesol, 400 grammes",4.66
+2024-05,"Graines de tournesol, 400 grammes",4.65
+2024-06,"Graines de tournesol, 400 grammes",4.74
+2024-07,"Graines de tournesol, 400 grammes",4.91
+2024-08,"Graines de tournesol, 400 grammes",4.76
+2024-09,"Graines de tournesol, 400 grammes",4.67
+2023-01,"Déodorant, 85 grammes",6.69
+2023-02,"Déodorant, 85 grammes",6.67
+2023-03,"Déodorant, 85 grammes",7.07
+2023-04,"Déodorant, 85 grammes",7.47
+2023-05,"Déodorant, 85 grammes",7.36
+2023-06,"Déodorant, 85 grammes",7.45
+2023-07,"Déodorant, 85 grammes",7.27
+2023-08,"Déodorant, 85 grammes",7.29
+2023-09,"Déodorant, 85 grammes",7.35
+2023-10,"Déodorant, 85 grammes",7.03
+2023-11,"Déodorant, 85 grammes",7.2
+2023-12,"Déodorant, 85 grammes",7.42
+2024-01,"Déodorant, 85 grammes",7.46
+2024-02,"Déodorant, 85 grammes",7.23
+2024-03,"Déodorant, 85 grammes",7.09
+2024-04,"Déodorant, 85 grammes",7.32
+2024-05,"Déodorant, 85 grammes",7.36
+2024-06,"Déodorant, 85 grammes",7.6
+2024-07,"Déodorant, 85 grammes",7.52
+2024-08,"Déodorant, 85 grammes",7.58
+2024-09,"Déodorant, 85 grammes",7.61
+2023-01,"Dentifrice, 100 millilitres",3.28
+2023-02,"Dentifrice, 100 millilitres",3.67
+2023-03,"Dentifrice, 100 millilitres",3.86
+2023-04,"Dentifrice, 100 millilitres",3.62
+2023-05,"Dentifrice, 100 millilitres",3.69
+2023-06,"Dentifrice, 100 millilitres",3.53
+2023-07,"Dentifrice, 100 millilitres",3.68
+2023-08,"Dentifrice, 100 millilitres",3.6
+2023-09,"Dentifrice, 100 millilitres",3.83
+2023-10,"Dentifrice, 100 millilitres",3.54
+2023-11,"Dentifrice, 100 millilitres",3.86
+2023-12,"Dentifrice, 100 millilitres",3.67
+2024-01,"Dentifrice, 100 millilitres",3.64
+2024-02,"Dentifrice, 100 millilitres",3.82
+2024-03,"Dentifrice, 100 millilitres",4.08
+2024-04,"Dentifrice, 100 millilitres",3.59
+2024-05,"Dentifrice, 100 millilitres",4.23
+2024-06,"Dentifrice, 100 millilitres",3.75
+2024-07,"Dentifrice, 100 millilitres",3.85
+2024-08,"Dentifrice, 100 millilitres",3.49
+2024-09,"Dentifrice, 100 millilitres",4.03
+2023-01,"Shampooing, 400 millilitres",6.27
+2023-02,"Shampooing, 400 millilitres",5.97
+2023-03,"Shampooing, 400 millilitres",6.32
+2023-04,"Shampooing, 400 millilitres",6.5
+2023-05,"Shampooing, 400 millilitres",6.54
+2023-06,"Shampooing, 400 millilitres",6.38
+2023-07,"Shampooing, 400 millilitres",6.5
+2023-08,"Shampooing, 400 millilitres",6.49
+2023-09,"Shampooing, 400 millilitres",6.71
+2023-10,"Shampooing, 400 millilitres",6.8
+2023-11,"Shampooing, 400 millilitres",6.59
+2023-12,"Shampooing, 400 millilitres",6.77
+2024-01,"Shampooing, 400 millilitres",6.95
+2024-02,"Shampooing, 400 millilitres",6.44
+2024-03,"Shampooing, 400 millilitres",6.93
+2024-04,"Shampooing, 400 millilitres",6.69
+2024-05,"Shampooing, 400 millilitres",6.78
+2024-06,"Shampooing, 400 millilitres",6.78
+2024-07,"Shampooing, 400 millilitres",6.48
+2024-08,"Shampooing, 400 millilitres",6.96
+2024-09,"Shampooing, 400 millilitres",6.94
+2023-01,"Détergent à lessive, 4,43 litres",13.95
+2023-02,"Détergent à lessive, 4,43 litres",15.28
+2023-03,"Détergent à lessive, 4,43 litres",14.23
+2023-04,"Détergent à lessive, 4,43 litres",15.47
+2023-05,"Détergent à lessive, 4,43 litres",14.53
+2023-06,"Détergent à lessive, 4,43 litres",15.26
+2023-07,"Détergent à lessive, 4,43 litres",13.97
+2023-08,"Détergent à lessive, 4,43 litres",13.76
+2023-09,"Détergent à lessive, 4,43 litres",14.36
+2023-10,"Détergent à lessive, 4,43 litres",13.42
+2023-11,"Détergent à lessive, 4,43 litres",14.3
+2023-12,"Détergent à lessive, 4,43 litres",14.26
+2024-01,"Détergent à lessive, 4,43 litres",15.26
+2024-02,"Détergent à lessive, 4,43 litres",15.53
+2024-03,"Détergent à lessive, 4,43 litres",13.99
+2024-04,"Détergent à lessive, 4,43 litres",14.55
+2024-05,"Détergent à lessive, 4,43 litres",12.65
+2024-06,"Détergent à lessive, 4,43 litres",12.38
+2024-07,"Détergent à lessive, 4,43 litres",12.23
+2024-08,"Détergent à lessive, 4,43 litres",13.3
+2024-09,"Détergent à lessive, 4,43 litres",12.73
