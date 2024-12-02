@@ -26,8 +26,8 @@ def variance(data, type=TYPE_SAMPLE):
     return round(top_sum / (len(data) - type), 2)
 
 # Calculates the standard deviation of the dataset
-def standard_deviation(data):
-    return round(math.sqrt(variance(data)), 2)
+def standard_deviation(data, type=TYPE_SAMPLE):
+    return round(math.sqrt(variance(data, type)), 2)
 
 # Gets the Z Score of a specified point
 def z_score(data, x) :
