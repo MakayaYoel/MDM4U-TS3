@@ -3,7 +3,6 @@ from datetime import datetime
 import os
 
 def test_cleaning():
-    raw_file_path = 'data/raw/1810024501_donneesselectionnees.csv'
     cleaned_file_path = 'data/cleaned/cleaned_data.csv'
     
     # Make sure dirs exists
