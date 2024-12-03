@@ -1,6 +1,11 @@
 import csv
-from datetime import datetime
 import os
+
+products = [
+    "Boeuf à ragoût, par kilogramme", "Poulet entier, par kilogramme", "Saumon, par kilogramme", 
+    "Pommes, par kilogramme", "Oranges, par kilogramme", "Bananes, par kilogramme", 
+    "Pommes de terre, par kilogramme", "Tomates, par kilogramme"
+]
 
 def test_cleaning():
     cleaned_file_path = 'data/cleaned/cleaned_data.csv'
@@ -47,7 +52,7 @@ def load_data() :
         for i, row in enumerate(reader):
             row = [r.replace('"', '') for r in row]
 
-            if i == 0 or len(row) == 0 or row[4] != "Dollars":
+            if i == 0 or len(row) == 0 or row[4] != "Dollars" or row[3] not in products:
                 continue
 
             data.append(extract_relevant_data(row))
