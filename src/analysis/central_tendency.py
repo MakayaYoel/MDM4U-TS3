@@ -1,12 +1,4 @@
-import sys
 from collections import Counter
-import os
-
-sys.path.append(os.path.abspath("src/tests"))
-
-from test_cleaning import load_data
-
-data = load_data()
 
 # Calculates the mode of the given dataset
 def mode(dat):
@@ -28,11 +20,3 @@ def median(dat):
         return round((dat[middle_index - 1] + dat[middle_index]) / 2, 2)
     else:
         return round(dat[middle_index] / 2, 2)
-
-
-if __name__ == "__main__":
-    prices = [row["price"] for row in data]
-    print("-- TENDANCES CENTRALE PRIX --")
-    print(f"MODE : {mode(prices)}")
-    print(f"MÉDIANE : {median(prices)}")
-    print(f"MOYENNE : {mean(prices)}")

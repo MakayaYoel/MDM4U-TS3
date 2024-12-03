@@ -1,13 +1,6 @@
-import sys
 from collections import Counter
 from central_tendency import mean
 import math
-
-sys.path.append("src/tests")
-
-from test_cleaning import load_data
-
-data = load_data()
 
 # Gets the correlation coefficient to the nearest hundreth
 def correlation_coefficient(xData, yData):
@@ -40,10 +33,3 @@ def linear_regression_origin(xData, yData):
     meanX = mean(xData)
 
     return round(meanY - slope * meanX, 2)
-
-if __name__ == "__main__":
-    intDates = [int(row["date"].replace("-", "")) for row in data]
-    prices = [row["price"] for row in data]
-    print("-- COEFFICIENT DE CORRELATION --")
-    print(f"COEFFICIENT: {correlation_coefficient(intDates, prices)}")
-    print(f"ÉQUATION DE LA RÉGRESSION: y = {linear_regression_slope(intDates, prices)}x + {linear_regression_origin(intDates, prices)}")
