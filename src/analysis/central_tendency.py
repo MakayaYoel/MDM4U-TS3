@@ -36,6 +36,6 @@ if __name__ == "__main__":
     table.field_names = ["Produit", "Mode", "Moyenne", "Médiane"]
     for product in products:
         product_data = [row["price"] for row in data if row["product"] == product]
-        table.add_row([product, mode(product_data), mean(product_data), median(product_data)])
+        table.add_row([product, str(mode(product_data)) + " $", str(mean(product_data)) + " $", str(median(product_data)) + " $"])
     with open("outputs/tableau_tendence_centrales_produits.txt", "w", encoding="utf-8") as file:
         file.write(table.get_string())
