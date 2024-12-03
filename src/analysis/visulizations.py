@@ -30,15 +30,15 @@ def distribution_of_prices(product_name, start_date: str, end_date: str):
     plt.close()
 
 def price_trends(product_name, start_date: str, end_date: str):
-    plt.figure(figsize=(16, 5))
+    plt.figure(figsize=(36, 8))
     filtered_data = [row for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
 
     prices = [row["price"] for row in filtered_data]
-    xPoints = [datetime.datetime.strptime(row["date"], "%Y-%m").strftime("%b %y") for row in filtered_data]
+    xPoints = [datetime.datetime.strptime(row["date"], "%Y-%m").strftime("%b.\n(%y)") for row in filtered_data]
     
     plt.plot(xPoints, prices)
-    plt.title(f"Tendances des prix de {product_name} entre {start_date} et {end_date}", fontsize=10)
-    plt.xlabel("Mois")
+    plt.title(f"Tendances des prix de {product_name} entre {start_date} et {end_date}", fontsize=12)
+    plt.xlabel("Mois\n(Année)")
     plt.ylabel("Prix ($)")
     plt.savefig(f"outputs/{product_name}_price_trends_{start_date}_{end_date}.png")
     plt.close()
@@ -67,3 +67,5 @@ def plot_regression_line(product_name, start_date: str, end_date: str):
     plt.savefig(f"outputs/{product_name}_regression_line_{start_date}_{end_date}.png")
     plt.close()
 
+if __name__ == "__main__":
+    price_trends("Boeuf à ragoût, par kilogramme", "2020-01", "2024-12")
