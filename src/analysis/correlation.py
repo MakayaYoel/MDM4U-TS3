@@ -2,7 +2,6 @@ import sys
 from collections import Counter
 from central_tendency import mean
 import math
-import statistics
 
 sys.path.append("src/tests")
 
@@ -21,9 +20,30 @@ def correlation_coefficient(xData, yData):
 
     return round(top / bottom, 2)
 
+# Returns the slope of the linear regression line
+def linear_regression_slope(xData, yData):
+    avgX = mean(xData)
+    avgY = mean(yData)
+
+    mean_of_products = sum(xData[i] * yData[i] for i in range(len(xData))) / len(xData)
+    top = mean_of_products - avgX * avgY
+
+    mean_of_squares = sum(x ** 2 for x in xData) / len(xData)
+    bottom = mean_of_squares - avgX ** 2
+
+    return round(top / bottom, 2)
+
+# Returns the y-intercept/origin of the linear regression line
+def linear_regression_origin(xData, yData):
+    slope = linear_regression_slope(xData, yData)
+    meanY = mean(yData)
+    meanX = mean(xData)
+
+    return round(meanY - slope * meanX, 2)
 
 if __name__ == "__main__":
     intDates = [int(row["date"].replace("-", "")) for row in data]
     prices = [row["price"] for row in data]
     print("-- COEFFICIENT DE CORRELATION --")
     print(f"COEFFICIENT: {correlation_coefficient(intDates, prices)}")
+    print(f"ÉQUATION DE LA RÉGRESSION: y = {linear_regression_slope(intDates, prices)}x + {linear_regression_origin(intDates, prices)}")
