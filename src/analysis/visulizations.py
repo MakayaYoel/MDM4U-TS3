@@ -4,6 +4,7 @@ import numpy as np
 import sys
 import math
 import datetime
+from babel.dates import format_date
 from correlation import linear_regression_slope, linear_regression_origin
 
 sys.path.append("src/tests")
@@ -34,8 +35,8 @@ def price_trends(product_name, start_date: str, end_date: str, figsize: tuple = 
     filtered_data = [row for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
 
     prices = [row["price"] for row in filtered_data]
-    xPoints = [datetime.datetime.strptime(row["date"], "%Y-%m").strftime("%b.\n(%y)") for row in filtered_data]
-    
+    xPoints = [f"{format_date(datetime.datetime.strptime(row['date'], '%Y-%m'), 'MMMM', locale='fr')[:3]}.\n({row['date'][:4]})" for row in filtered_data]
+
     plt.plot(xPoints, prices)
     plt.title(f"Tendances des prix de {product_name} entre {start_date} et {end_date}", fontsize=12)
     plt.xlabel("Mois\n(Année)")
@@ -73,3 +74,7 @@ if __name__ == "__main__":
     # Consummer price index for june 2020 supports these observations
     price_trends("Boeuf à ragoût, par kilogramme", "2020-01", "2024-12")
     price_trends("Poulet entier, par kilogramme", "2020-04", "2020-06", figsize=(12, 4))
+    
+
+    price_trends("Pommes, par kilogramme", "2020-01", "2024-12")
+    price_trends("Bananes, par kilogramme", "2020-01", "2024-12")
