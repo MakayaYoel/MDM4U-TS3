@@ -29,8 +29,8 @@ def distribution_of_prices(product_name, start_date: str, end_date: str):
     plt.savefig(f"outputs/{product_name}_distribution_of_prices_{start_date}_{end_date}.png")
     plt.close()
 
-def price_trends(product_name, start_date: str, end_date: str):
-    plt.figure(figsize=(36, 8))
+def price_trends(product_name, start_date: str, end_date: str, figsize: tuple = (36, 8)):
+    plt.figure(figsize=figsize)
     filtered_data = [row for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
 
     prices = [row["price"] for row in filtered_data]
@@ -68,4 +68,8 @@ def plot_regression_line(product_name, start_date: str, end_date: str):
     plt.close()
 
 if __name__ == "__main__":
+    # Price of beef seemed to have spiked from april to june 2020
+    # Price of chicken seemed to have decreased from april to june 2020
+    # Consummer price index for june 2020 supports these observations
     price_trends("Boeuf à ragoût, par kilogramme", "2020-01", "2024-12")
+    price_trends("Poulet entier, par kilogramme", "2020-04", "2020-06", figsize=(12, 4))
