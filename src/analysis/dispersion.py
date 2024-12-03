@@ -12,7 +12,7 @@ data = load_data()
 
 # Returns the range
 def stats_range(data):
-    return max(data) - min(data)
+    return round(max(data) - min(data), 2)
 
 TYPE_POPULATION = 0
 TYPE_SAMPLE = 1
@@ -50,9 +50,12 @@ def interpercentile_range(data):
 
 if __name__ == "__main__":
     prices = [row["price"] for row in data]
-    
+
     print("-- DISPERSION PAR RAPPORT AUX PRIX -- ")
     print(f"ÉTENDUE: {stats_range(prices)}")
     print(f"VARIANCE: {variance(prices)}")
     print(f"ÉCART-TYPE: {standard_deviation(prices)}")
+    print(f"QUARTILE 1: {percentile(prices, 25)}")
+    print(f"QUARTILE 2: {percentile(prices, 50)}")
+    print(f"QUARTILE 3: {percentile(prices, 75)}")
     print(f"INTERVALLE INTERQUARTILE: {interpercentile_range(prices)}")
