@@ -1,6 +1,11 @@
 from collections import Counter
 from central_tendency import mean
 import math
+import datetime
+import sys
+
+sys.path.append("src/tests")
+from test_cleaning import load_data
 
 # Gets the correlation coefficient to the nearest hundreth
 def correlation_coefficient(xData, yData):
@@ -18,13 +23,10 @@ def linear_regression_slope(xData, yData):
     avgX = mean(xData)
     avgY = mean(yData)
 
-    mean_of_products = sum(xData[i] * yData[i] for i in range(len(xData))) / len(xData)
-    top = mean_of_products - avgX * avgY
+    top = sum((x - avgX) * (y - avgY) for x, y in zip(xData, yData))
+    bottom = sum((x - avgX) ** 2 for x in xData)
 
-    mean_of_squares = sum(x ** 2 for x in xData) / len(xData)
-    bottom = mean_of_squares - avgX ** 2
-
-    return round(top / bottom, 2)
+    return top / bottom
 
 # Returns the y-intercept/origin of the linear regression line
 def linear_regression_origin(xData, yData):
@@ -33,3 +35,15 @@ def linear_regression_origin(xData, yData):
     meanX = mean(xData)
 
     return round(meanY - slope * meanX, 2)
+
+import statistics
+
+data = load_data()
+
+# use days from 2020-01-01 as x values
+boeuf_dates = [(datetime.datetime.strptime(row["date"], "%Y-%m") - datetime.datetime(2020, 1, 1)).days for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
+boeuf_prices = [row["price"] for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
+
+print(mean(boeuf_dates))
+print(correlation_coefficient(boeuf_dates, boeuf_prices))
+print(statistics.correlation(boeuf_dates, boeuf_prices))

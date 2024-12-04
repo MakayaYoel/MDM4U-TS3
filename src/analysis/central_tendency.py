@@ -19,7 +19,7 @@ def median(data):
     if length % 2 == 0:
         return round((data[middle_index - 1] + data[middle_index]) / 2, 2)
     else:
-        return round(data[middle_index] / 2, 2)
+        return round(data[middle_index], 2)
 
 
 import sys
@@ -29,6 +29,7 @@ from prettytable import PrettyTable
 sys.path.append("src/tests")
 from test_cleaning import products, load_data
 
+import statistics
 if __name__ == "__main__":
     os.makedirs("outputs", exist_ok=True)
     data = load_data()
@@ -39,3 +40,6 @@ if __name__ == "__main__":
         table.add_row([product, str(mode(product_data)) + " $", str(mean(product_data)) + " $", str(median(product_data)) + " $"])
     with open("outputs/tableau_tendence_centrales_produits.txt", "w", encoding="utf-8") as file:
         file.write(table.get_string())
+
+    
+    

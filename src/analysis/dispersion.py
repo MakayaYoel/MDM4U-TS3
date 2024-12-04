@@ -14,7 +14,7 @@ def variance(data, type=TYPE_SAMPLE):
 
     top_sum = sum([(price - avg) ** 2 for price in data])
 
-    return round(top_sum / (len(data) - type), 2)
+    return top_sum / (len(data) - type)
 
 # Calculates the standard deviation of the dataset
 def standard_deviation(data, type=TYPE_SAMPLE):
@@ -56,3 +56,7 @@ if __name__ == "__main__":
     
     with open("outputs/tableau_dispersion_produits.txt", "w", encoding="utf-8") as file:
         file.write(table.get_string())  
+
+    d = [row["price"] for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
+    print(percentile(d, 25))
+    print(percentile(d, 75))
