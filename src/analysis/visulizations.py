@@ -21,16 +21,6 @@ def is_valid_date(date: str, start_date: str, end_date: str) -> bool:
     date_obj = datetime.datetime.strptime(date, "%Y-%m")
     return start_date <= date_obj <= end_date
 
-def distribution_of_prices(product_name, start_date: str, end_date: str):
-    plt.figure(figsize=(10, 5))
-    prices = [row["price"] for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
-    plt.hist(prices, edgecolor='black', bins=3, color='skyblue')
-    plt.title(f"Distribution des prix de {product_name} entre {start_date} et {end_date}", fontsize=10)
-    plt.xlabel("Prix ($)")
-    plt.ylabel("Fréquence")
-    plt.savefig(f"outputs/{product_name}_distribution_of_prices_{start_date}_{end_date}.png")
-    plt.close()
-
 def price_trends(product_name, start_date: str, end_date: str, figsize: tuple = (36, 8)):
     plt.figure(figsize=figsize)
     filtered_data = [row for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
@@ -70,11 +60,20 @@ def plot_regression_line(product_name, start_date: str, end_date: str):
     plt.close()
 
 def hist_plot_with_bell_curve(product_name, start_date: str, end_date: str):
-    sns.histplot(data=[row["price"] for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)], kde=True, alpha=0, edgecolor=(0, 0, 0, 0.2))
+    sns.histplot(data=[row["price"] for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)], kde=True, alpha=0.1, edgecolor=(0, 0, 0, 0.2))
     plt.title(f"Prix de {product_name} entre {start_date} et {end_date}", fontsize=8)
     plt.xlabel("Prix ($)")
     plt.ylabel("Fréquence")
     plt.savefig(f"outputs/{product_name}_hist_plot_with_bell_curve_{start_date}_{end_date}.png")
+    plt.close()
+
+def box_plot(product_name, start_date: str, end_date: str):
+    prices = [row["price"] for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)]
+    plt.boxplot(prices, vert=False, patch_artist=True, boxprops=dict(facecolor='lightblue', color='blue'), medianprops=dict(color='red', linewidth=2))
+    plt.title(f"Prix de {product_name} entre {start_date} et {end_date}", fontsize=8)
+    plt.xlabel("Prix ($)")
+    plt.ylabel("Fréquence")
+    plt.savefig(f"outputs/{product_name}_box_plot_{start_date}_{end_date}.png")
     plt.close()
 
 if __name__ == "__main__":
@@ -86,3 +85,4 @@ if __name__ == "__main__":
 
     price_trends("Saumon, par kilogramme", "2020-01", "2024-12")
     hist_plot_with_bell_curve("Saumon, par kilogramme", "2020-01", "2024-12")
+    box_plot("Saumon, par kilogramme", "2020-01", "2024-12")    

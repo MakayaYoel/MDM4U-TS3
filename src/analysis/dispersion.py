@@ -22,7 +22,7 @@ def standard_deviation(data, type=TYPE_SAMPLE):
 
 # Gets the Z Score of a specified point
 def z_score(data, x) :
-    return (x - mean(data)) / standard_deviation()
+    return (x - mean(data)) / standard_deviation(data)
 
 # Credit: https://www.calculatorsoup.com/calculators/statistics/percentile-calculator.php
 def percentile(data, x):
