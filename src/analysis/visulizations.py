@@ -6,6 +6,7 @@ import math
 import datetime
 from babel.dates import format_date
 from correlation import linear_regression_slope, linear_regression_origin
+import seaborn as sns
 
 sys.path.append("src/tests")
 import test_cleaning as tc
@@ -68,6 +69,14 @@ def plot_regression_line(product_name, start_date: str, end_date: str):
     plt.savefig(f"outputs/{product_name}_regression_line_{start_date}_{end_date}.png")
     plt.close()
 
+def hist_plot_with_bell_curve(product_name, start_date: str, end_date: str):
+    sns.histplot(data=[row["price"] for row in data if row["product"] == product_name and is_valid_date(row["date"], start_date, end_date)], kde=True, alpha=0, edgecolor=(0, 0, 0, 0.2))
+    plt.title(f"Prix de {product_name} entre {start_date} et {end_date}", fontsize=8)
+    plt.xlabel("Prix ($)")
+    plt.ylabel("Fréquence")
+    plt.savefig(f"outputs/{product_name}_hist_plot_with_bell_curve_{start_date}_{end_date}.png")
+    plt.close()
+
 if __name__ == "__main__":
     # Price of beef seemed to have spiked from april to june 2020
     # Price of chicken seemed to have decreased from april to june 2020
@@ -76,3 +85,4 @@ if __name__ == "__main__":
     price_trends("Poulet entier, par kilogramme", "2020-04", "2020-06", figsize=(12, 4))
 
     price_trends("Saumon, par kilogramme", "2020-01", "2024-12")
+    hist_plot_with_bell_curve("Saumon, par kilogramme", "2020-01", "2024-12")
