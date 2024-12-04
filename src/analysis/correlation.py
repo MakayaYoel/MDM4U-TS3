@@ -34,6 +34,8 @@ def linear_regression_origin(xData, yData):
     meanY = mean(yData)
     meanX = mean(xData)
 
+    print(f"slope: {slope}, meanY: {meanY}, meanX: {meanX}"	)
+
     return round(meanY - slope * meanX, 2)
 
 import statistics
@@ -44,6 +46,6 @@ data = load_data()
 boeuf_dates = [(datetime.datetime.strptime(row["date"], "%Y-%m") - datetime.datetime(2020, 1, 1)).days for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
 boeuf_prices = [row["price"] for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
 
-print(mean(boeuf_dates))
-print(correlation_coefficient(boeuf_dates, boeuf_prices))
-print(statistics.correlation(boeuf_dates, boeuf_prices))
+print(linear_regression_slope(boeuf_dates, boeuf_prices))
+print(linear_regression_origin(boeuf_dates, boeuf_prices))
+print(statistics.linear_regression(boeuf_dates, boeuf_prices))
