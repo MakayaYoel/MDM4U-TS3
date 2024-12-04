@@ -74,7 +74,5 @@ if __name__ == "__main__":
     # Consummer price index for june 2020 supports these observations
     price_trends("Boeuf à ragoût, par kilogramme", "2020-01", "2024-12")
     price_trends("Poulet entier, par kilogramme", "2020-04", "2020-06", figsize=(12, 4))
-    
 
-    price_trends("Pommes, par kilogramme", "2020-01", "2024-12")
-    price_trends("Bananes, par kilogramme", "2020-01", "2024-12")
+    price_trends("Saumon, par kilogramme", "2020-01", "2024-12")

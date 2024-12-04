@@ -37,4 +37,22 @@ def percentile(data, x):
         return sorted_data[integer_part - 1] + fractional_part * (sorted_data[integer_part] - sorted_data[integer_part - 1])
 
 def interpercentile_range(data):
-    return percentile(data, 75) - percentile(data, 25)
+    return round(percentile(data, 75) - percentile(data, 25), 2)
+
+from prettytable import PrettyTable
+import sys
+
+sys.path.append("src/tests")
+from test_cleaning import products, load_data
+
+if __name__ == "__main__":
+    data = load_data()
+    table = PrettyTable()
+    table.field_names = ["Produit", "Étendue", "Variance", "Écart-type", "Intervalle interquartile"]
+    
+    for product in products:
+        prices = [row["price"] for row in data if row["product"] == product]
+        table.add_row([product, stats_range(prices), variance(prices), standard_deviation(prices), interpercentile_range(prices)])
+    
+    with open("outputs/tableau_dispersion_produits.txt", "w", encoding="utf-8") as file:
+        file.write(table.get_string())  
