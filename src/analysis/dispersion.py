@@ -41,11 +41,13 @@ def interpercentile_range(data):
 
 from prettytable import PrettyTable
 import sys
+import os
 
 sys.path.append("src/tests")
 from test_cleaning import products, load_data
 
 if __name__ == "__main__":
+    os.makedirs("outputs/tables", exist_ok=True)
     data = load_data()
     table = PrettyTable()
     table.field_names = ["Produit", "Étendue", "Variance", "Écart-type", "Intervalle interquartile"]
@@ -54,9 +56,5 @@ if __name__ == "__main__":
         prices = [row["price"] for row in data if row["product"] == product]
         table.add_row([product, stats_range(prices), variance(prices), standard_deviation(prices), interpercentile_range(prices)])
     
-    with open("outputs/tableau_dispersion_produits.txt", "w", encoding="utf-8") as file:
+    with open("outputs/tables/tableau_dispersion_produits.txt", "w", encoding="utf-8") as file:
         file.write(table.get_string())  
-
-    d = [row["price"] for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
-    print(percentile(d, 25))
-    print(percentile(d, 75))

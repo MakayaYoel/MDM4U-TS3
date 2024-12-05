@@ -32,7 +32,7 @@ def price_trends(product_name, start_date: str, end_date: str, figsize: tuple = 
     plt.title(f"Tendances des prix de {product_name} entre {start_date} et {end_date}", fontsize=12)
     plt.xlabel("Mois\n(Année)")
     plt.ylabel("Prix ($)")
-    plt.savefig(f"outputs/{product_name}_price_trends_{start_date}_{end_date}.png")
+    plt.savefig(f"outputs/price_trends/{product_name}_price_trends_{start_date}_{end_date}.png")
     plt.close()
 
 def plot_regression_line(product_name, start_date: str, end_date: str):
@@ -77,12 +77,8 @@ def box_plot(product_name, start_date: str, end_date: str):
     plt.close()
 
 if __name__ == "__main__":
-    # Price of beef seemed to have spiked from april to june 2020
-    # Price of chicken seemed to have decreased from april to june 2020
-    # Consummer price index for june 2020 supports these observations
-    price_trends("Boeuf à ragoût, par kilogramme", "2020-01", "2024-12")
-    price_trends("Poulet entier, par kilogramme", "2020-04", "2020-06", figsize=(12, 4))
+    # create price trends for all products in outputs/price_trends
+    os.makedirs("outputs/price_trends/", exist_ok=True)
+    for product in tc.products:
+        price_trends(product, "2020-01", "2024-12")
 
-    price_trends("Saumon, par kilogramme", "2020-01", "2024-12")
-    hist_plot_with_bell_curve("Saumon, par kilogramme", "2020-01", "2024-12")
-    box_plot("Saumon, par kilogramme", "2020-01", "2024-12")    
