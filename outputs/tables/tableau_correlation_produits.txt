@@ -1,0 +1,12 @@
++---------------------------------+----------------------------+-------------------------------------+
+|             Produit             | Coefficient de corrélation | Équation de la droite de régression |
++---------------------------------+----------------------------+-------------------------------------+
+|  Boeuf à ragoût, par kilogramme |            0.77            |         y = 0.0033x + 15.19         |
+|  Poulet entier, par kilogramme  |            0.18            |          y = 0.0002x + 5.78         |
+|      Saumon, par kilogramme     |            0.56            |         y = 0.0027x + 24.06         |
+|      Pommes, par kilogramme     |            0.45            |          y = 0.0005x + 4.42         |
+|     Oranges, par kilogramme     |            0.25            |          y = 0.0003x + 3.40         |
+|     Bananes, par kilogramme     |            0.65            |          y = 0.0000x + 1.41         |
+| Pommes de terre, par kilogramme |            0.77            |          y = 0.0006x + 4.03         |
+|     Tomates, par kilogramme     |           -0.10            |         y = -0.0002x + 4.82         |
++---------------------------------+----------------------------+-------------------------------------+

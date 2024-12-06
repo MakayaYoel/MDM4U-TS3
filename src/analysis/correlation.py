@@ -1,11 +1,6 @@
 from collections import Counter
 from central_tendency import mean
 import math
-import datetime
-import sys
-
-sys.path.append("src/tests")
-from test_cleaning import load_data
 
 # Gets the correlation coefficient to the nearest hundreth
 def correlation_coefficient(xData, yData):
@@ -34,18 +29,32 @@ def linear_regression_origin(xData, yData):
     meanY = mean(yData)
     meanX = mean(xData)
 
-    print(f"slope: {slope}, meanY: {meanY}, meanX: {meanX}"	)
-
     return round(meanY - slope * meanX, 2)
+
+from prettytable import PrettyTable
+import sys
+import os
+import datetime
+
+sys.path.append("src/tests")
+from test_cleaning import products, load_data
 
 import statistics
 
-data = load_data()
+if __name__ == "__main__":
+    os.makedirs("outputs/tables", exist_ok=True)
+    data = load_data()
 
-# use days from 2020-01-01 as x values
-boeuf_dates = [(datetime.datetime.strptime(row["date"], "%Y-%m") - datetime.datetime(2020, 1, 1)).days for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
-boeuf_prices = [row["price"] for row in data if row["product"] == "Boeuf à ragoût, par kilogramme"]
+    table = PrettyTable()
+    table.field_names = ["Produit", "Coefficient de corrélation", "Équation de la droite de régression"]
 
-print(linear_regression_slope(boeuf_dates, boeuf_prices))
-print(linear_regression_origin(boeuf_dates, boeuf_prices))
-print(statistics.linear_regression(boeuf_dates, boeuf_prices))
+    for product in products:
+        prices = [row["price"] for row in data if row["product"] == product]
+        dates = [(datetime.datetime.strptime(row["date"], "%Y-%m") - datetime.datetime(2020, 1, 1)).days for row in data if row["product"] == product]
+
+        table.add_row([product, f"{correlation_coefficient(dates, prices):.2f}", f"y = {linear_regression_slope(dates, prices):.4f}x + {linear_regression_origin(dates, prices):.2f}"])
+        
+    with open("outputs/tables/tableau_correlation_produits.txt", "w", encoding="utf-8") as file:
+        file.write(table.get_string())
+
+
